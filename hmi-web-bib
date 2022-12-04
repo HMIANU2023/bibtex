@@ -1,15 +1,12 @@
-@article{RN50,
-   author = {Rosenstock, S and O’Connor, C},
+@article{Rosenstock2018,
+   author = {Rosenstock, Sarita and O’Connor, Cailin},
    title = {When It’s Good to Feel Bad: An Evolutionary Model of Guilt and Apology},
    journal = {Frontiers in Robotics and AI},
    volume = {5},
    number = {9},
-   abstract = {We use techniques from evolutionary game theory to analyze the conditions under which guilt can provide individual fitness benefits, and so evolve. In particular, we focus on the benefits of guilty apology. We consider models where actors err in an iterated prisoner’s dilemma and have the option to apologize. Guilt either improves the trustworthiness of apology or imposes a cost on actors who apologize. We analyze the stability and likelihood of evolution of such a “guilt-prone” strategy against cooperators, defectors, grim triggers, and individuals who offer fake apologies, but continue to defect. We find that in evolutionary models guilty apology is more likely to evolve in cases where actors interact repeatedly over long periods of time, where the costs of apology are low or moderate, and where guilt is hard to fake. Researchers interested in naturalized ethics, and emotion researchers, can employ these results to assess the plausibility of fuller accounts of the evolution of guilt.},
-   keywords = {evolutionary game theory,Game theory,Guilt,moral emotions,prisoner's dilemma},
-   ISSN = {2296-9144},
-   DOI = {10.3389/frobt.2018.00009},
-   url = {https://www.frontiersin.org/article/10.3389/frobt.2018.00009},
+   url = {https://www.frontiersin.org/articles/10.3389/frobt.2018.00009/full},
    year = {2018},
+   publisher={Frontiers Media SA}
    type = {Journal Article}
 }
 
