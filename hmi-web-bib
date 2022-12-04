@@ -18,13 +18,13 @@
    type = {Conference Paper}
 }
 
-@article{RN48,
-   author = {Bateman, W},
-   title = {Algorithmic Decision-Making and Legality: Public Law Dimensions},
-   journal = {ustralian Law Journal},
+@article{Bateman2020,
+   author = {Bateman, Will},
+   title = {Algorithmic Decision-Making and Legality: Public Law Dimensions’(2020)},
+   journal = {Australian Law Journal},
    volume = {94},
-   pages = {520-530},
-   year = {2019},
+   pages = {520},
+   year = {2020},
    type = {Journal Article}
 }
 
