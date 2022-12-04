@@ -41,28 +41,15 @@
    type = {Book Section}
 }
 
-@inbook{RN45,
+@article{Benn2019playtest,
    author = {Benn, Claire},
-   title = {Playtest and the Power of Virtual Reality},
-   booktitle = {Black Mirror and Philosophy: Dark Reflections},
-   editor = {Johnson, D},
-   publisher = {John Wiley & Sons Inc},
-   address = {NJ, USA},
+   title = {Playtest and the Power of Virtual Reality: Are Our Fears Real?},
+   journal={Black Mirror and Philosophy: Dark Reflections}
+   publisher = {Wiley Online Library},
    pages = {92-100},
-   abstract = {In Playtest, our thrill‐seeking protagonist Cooper tests SaitoGemu's “interactive augmented reality system.” As the fears he must face in “the most personal survival horror game in history” ramp up, Cooper begins to lose the ability to tell what's real and what isn't and decides he wants out, only to find that isn't so simple. But will virtual reality really be that scary? Perhaps no more than books, films and traditional video games, especially when the novelty wears off. Perhaps the real moral of Playtest is “Call your mom”. But beneath the surface a much darker lesson lurks: that when our fantasies feel real, and have the power to hurt, they are no longer just a game. Virtual reality can build a bridge between what seems real and what is real, and this means its power to scare us silly is not just novel: it's revolutionary.},
-   keywords = {virtual reality
-horror
-memory
-madness
-games
-augmented reality
-reality
-presence
-fear
-perception},
-   DOI = {10.1002/9781119578291.ch9},
+   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119578291.ch9}
    year = {2019},
-   type = {Book Section}
+   type = {Journal Article}
 }
 
 @book{RN44,
