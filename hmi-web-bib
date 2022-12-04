@@ -68,15 +68,16 @@
    type = {Conference Paper}
 }
 
-@article{RN43,
-   author = {Lazar, Seth and Graham, Peter A.},
+@article{Lazar2021,
+   author = {Lazar, Seth and Graham, Peter A},
    title = {Deontological decision theory and lesser-evil options},
    journal = {Synthese},
-   abstract = {Normative ethical theories owe us an account of how to evaluate decisions under risk and uncertainty. Deontologists seem at a disadvantage here: our best decision theories seem tailor-made for consequentialism. For example, decision theory enjoins us to always perform our best option; deontology is more permissive. In this paper, we discuss and defend the idea that, when some pro-tanto wrongful act is all-things considered permissible, because it is a ‘lesser evil’, it is often merely permissible, by the lights of deontology. We show that this raises new problems for deontological decision theory, and we show that to resolve them, we need to take a more innovative approach to morally evaluating decision-making under risk and uncertainty.},
-   ISSN = {1573-0964},
-   DOI = {10.1007/s11229-019-02496-z},
+   volume={198},
+   number={7},
+   pages={6889--6916},
+   publisher={Springer}
    url = {https://doi.org/10.1007/s11229-019-02496-z},
-   year = {2019},
+   year = {2021},
    type = {Journal Article}
 }
 
