@@ -60,12 +60,13 @@
    type = {Edited Book}
 }
 
-@misc{RN42,
-   author = {Kasirzadeh, A},
+@article{kasirzadeh2019,
+   author = {Kasirzadeh, Atoosa},
    title = {Mathematical decisions and non-causal elements of explainable AI},
-   month = {13 December 2019},
+   journal={arXiv preprint arXiv:1910.13607},
+   url = {https://arxiv.org/abs/1910.13607}
    year = {2019},
-   type = {Conference Paper}
+   type = {Journal Article}
 }
 
 @article{Lazar2021,
