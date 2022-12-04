@@ -1,2 +1,0 @@
-# bibtex
-HMI ANU bibtex
