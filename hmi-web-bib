@@ -361,12 +361,13 @@ Propositional satisfiability},
    type = {Journal Article}
 }
 
-@inproceedings{RN27,
-   author = {Tran, A and Mathews, A and Xie, L},
+@inproceedings{Transform2020,
+   author = {Tran, Alasdair and Mathews, Alexander and Xie, Lexing},
    title = {Transform and Tell: Entity-Aware News Image Captioning},
    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
    pages = {13035-13045},
-   type = {Conference Proceedings}
+   url = {https://openaccess.thecvf.com/content_CVPR_2020/html/Tran_Transform_and_Tell_Entity-Aware_News_Image_Captioning_CVPR_2020_paper.html}
+   year = {2020}
 }
 
 @inproceedings{RN36,
