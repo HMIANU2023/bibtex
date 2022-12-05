@@ -370,12 +370,14 @@ Propositional satisfiability},
    year = {2020}
 }
 
-@inproceedings{RN36,
-   author = {Wu, Siqi and Rizoiu, M and Xie, L},
+@inproceedings{Variation2020,
+   author = {Wu, Siqi and Rizoiu, Marian-Andrei and Xie, Lexing},
    title = {Variation across Scales: Measurement Fidelity under Twitter Data Sampling},
-   booktitle = {Proceedings of the Fourteenth International AAAI Conference on Web and Social Media 2020},
+   booktitle = {Proceedings of the international AAAI conference on web and social media},
+   volume={14},
    pages = {715-725},
-   type = {Conference Proceedings}
+   url = {https://ojs.aaai.org/index.php/ICWSM/article/view/7337}
+   year = {2020}
 }
 
 @inbook{RN16,
