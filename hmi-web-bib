@@ -366,8 +366,8 @@ Propositional satisfiability},
    title = {Transform and Tell: Entity-Aware News Image Captioning},
    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
    pages = {13035-13045},
-   url = {https://openaccess.thecvf.com/content_CVPR_2020/html/Tran_Transform_and_Tell_Entity-Aware_News_Image_Captioning_CVPR_2020_paper.html}
-   year = {2020}
+   url = {https://openaccess.thecvf.com/content_CVPR_2020/html/Tran_Transform_and_Tell_Entity-Aware_News_Image_Captioning_CVPR_2020_paper.html},
+   year = {2020},
 }
 
 @inproceedings{Variation2020,
@@ -376,8 +376,8 @@ Propositional satisfiability},
    booktitle = {Proceedings of the international AAAI conference on web and social media},
    volume={14},
    pages = {715-725},
-   url = {https://ojs.aaai.org/index.php/ICWSM/article/view/7337}
-   year = {2020}
+   url = {https://ojs.aaai.org/index.php/ICWSM/article/view/7337},
+   year = {2020},
 }
 
 @inbook{RN16,
