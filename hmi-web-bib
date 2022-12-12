@@ -862,11 +862,13 @@ emotional labor},
    type = {Journal Article}
 }
 
-@inproceedings{RN9,
-   author = {Tran, A and Mathews, A and Ong, C and Xie, L },
-   title = {Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series},
-   booktitle = {Proceedings of the Web Conference 2021},
-   type = {Conference Proceedings}
+@inproceedings{tran2021radflow,
+  title={Radflow: A recurrent, aggregated, and decomposable model for networks of time series},
+  author={Tran, Alasdair and Mathews, Alexander and Ong, Cheng Soon and Xie, Lexing},
+  booktitle={Proceedings of the Web Conference 2021},
+  pages={730--742},
+  url = {https://dl.acm.org/doi/abs/10.1145/3442381.3449945},
+  year={2021}
 }
 
 @inbook{RN17,
