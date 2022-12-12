@@ -1004,11 +1004,13 @@ emotional labor},
   year={2022}
 }
 
-@inproceedings{RN120,
-   author = {Evans, C and Benn, C.  and Ojea Quintana, I and Robinson, P.  and Thiebaux, S},
-   title = {Stochastic Policies in Morally Constrained (C-)SSPs},
-   booktitle = {Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society},
-   type = {Conference Proceedings}
+@inproceedings{evans2022stochastic,
+  title={Stochastic Policies in Morally Constrained (C-) SSPs},
+  author={Evans, Charles and Benn, Claire and Ojea Quintana, Ignacio and Robinson, Pamela and Thi{\'e}baux, Sylvie},
+  booktitle={Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society},
+  pages={253--264},
+  url = {https://dl.acm.org/doi/abs/10.1145/3514094.3534193},
+  year={2022}
 }
 
 @techreport{RN114,
