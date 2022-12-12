@@ -780,11 +780,13 @@ emotional labor},
   organization={Springer}
 }
 
-@inproceedings{RN75,
-   author = {Perrier, E},
-   title = {Quantum Fair Machine Learning},
-   booktitle = {2021 AAAI/ACM Conference on AI, Ethics, and Society},
-   type = {Conference Proceedings}
+@inproceedings{perrier2021quantum,
+  title={Quantum fair machine learning},
+  author={Perrier, Elija},
+  booktitle={Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society},
+  pages={843--853},
+  url = {https://dl.acm.org/doi/abs/10.1145/3461702.3462611},
+  year={2021}
 }
 
 @article{RN69,
