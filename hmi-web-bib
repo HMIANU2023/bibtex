@@ -82,16 +82,16 @@
    type = {Journal Article}
 }
 
-@inproceedings{RN46,
-   author = {Wu, S and Rizoiu, M and Xie, L},
-   title = {Estimating Attention Flow in Online Video Networks},
-   booktitle = {Proceedings of the ACM on Human-Computer Interaction 2019},
-   volume = {3},
-   pages = {1-25},
-   keywords = {youtube, empirical measurement, online attention, recommender system, network effects, popularity prediction},
-   DOI = {10.1145/3359285},
-   url = {https://doi.org/10.1145/3359285},
-   type = {Conference Proceedings}
+@article{wu2019estimating,
+  title={Estimating attention flow in online video networks},
+  author={Wu, Siqi and Rizoiu, Marian-Andrei and Xie, Lexing},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={3},
+  number={CSCW},
+  pages={1-25},
+  url = {https://dl.acm.org/doi/abs/10.1145/3359285},
+  year={2019},
+  publisher={ACM New York, NY, USA}
 }
 
 @article{RN28,
