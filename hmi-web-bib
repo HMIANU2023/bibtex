@@ -769,13 +769,12 @@ emotional labor},
   organization={Springer}
 }
 
-@inproceedings{maruyama2021moral,
-  title={Moral Philosophy of Artificial General Intelligence: Agency and Responsibility},
-  author={Maruyama, Yoshihiro},
-  booktitle={International Conference on Artificial General Intelligence},
-  pages={139--150},
-  year={2021},
-  organization={Springer}
+@inproceedings{RN101,
+   author = {Maruyama, Y},
+   title = {Categorical Artificial Intelligence: The Integration of Symbolic and Statistical AI for Verifiable, Ethical, and Trustworthy AI},
+   booktitle = {Proceedings of Artificial General Intelligence},
+   publisher = {Springer},
+   type = {Conference Proceedings}
 }
 
 @inproceedings{RN75,
