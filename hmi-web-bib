@@ -994,11 +994,14 @@ emotional labor},
    type = {Journal Article}
 }
 
-@inproceedings{RN122,
-   author = {Dung Nguyen, T and Lyall, G and Tran, A and Shin, M and Carroll, N. G. and Klein, C.  and Xie, L.},
-   title = {Mapping Topics in 100,000 Real-life Moral Dilemmas},
-   booktitle = {AAAI International Conference on Weblogs and Social Media (ICWSM)},
-   type = {Conference Proceedings}
+@inproceedings{nguyen2022mapping,
+  title={Mapping Topics in 100,000 Real-Life Moral Dilemmas},
+  author={Nguyen, Tuan Dung and Lyall, Georgiana and Tran, Alasdair and Shin, Minjeong and Carroll, Nicholas George and Klein, Colin and Xie, Lexing},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={16},
+  pages={699--710},
+  url = {https://ojs.aaai.org/index.php/ICWSM/article/view/19327},
+  year={2022}
 }
 
 @inproceedings{RN120,
