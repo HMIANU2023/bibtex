@@ -148,13 +148,12 @@
    type = {Journal Article}
 }
 
-@inproceedings{RN13,
-   author = {Bista, U and Mathews, A and Menon, A and Xie, L},
-   title = {SupMMD: A Sentence Importance Model for Extractive Summarization using Maximum Mean Discrepancy},
-   booktitle = {Findings of the Association for Computational Linguistics: EMNLP},
-   pages = {4108-4122},
-   DOI = {10.18653/v1/2020.findings-emnlp.367},
-   type = {Conference Proceedings}
+@article{bista2020supmmd,
+  title={SupMMD: A Sentence Importance Model for Extractive Summarization using Maximum Mean Discrepancy},
+  author={Bista, Umanga and Mathews, Alexander Patrick and Menon, Aditya Krishna and Xie, Lexing},
+  journal={arXiv preprint arXiv:2010.02568},
+  url = {https://arxiv.org/abs/2010.02568},
+  year={2020}
 }
 
 @article{RN14,
