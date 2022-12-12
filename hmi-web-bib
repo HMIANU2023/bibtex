@@ -400,15 +400,15 @@ Privacy},
    type = {Book Section}
 }
 
-@inproceedings{RN38,
-   author = {Zhang, X and Grastien, A and Scala, E},
-   title = {Computing Superior Counter-Examples for Conformant Planning},
-   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence 2020},
-   volume = {34},
-   pages = {10017-10024},
-   DOI = {10.1609/aaai.v34i06.6558},
-   url = {https://ojs.aaai.org/index.php/AAAI/article/view/6558},
-   type = {Conference Proceedings}
+@inproceedings{zhang2020computing,
+  title={Computing superior counter-examples for conformant planning},
+  author={Zhang, Xiaodi and Grastien, Alban and Scala, Enrico},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={06},
+  pages={10017--10024},
+  url = {https://ojs.aaai.org/index.php/AAAI/article/view/6558},
+  year={2020}
 }
 
 @misc{RN58,
