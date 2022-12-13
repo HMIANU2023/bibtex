@@ -1155,14 +1155,14 @@ Policy for Science and Technology},
   year={2021}
 }
 
-@inbook{RN82,
-   author = {Bateman, W},
-   title = {Coding Legal Norms},
-   booktitle = {Regulatory Insights on Artificial Intelligence: Research for Policy},
-   editor = {Findlay and Ford and Seoh and Thampapillai},
-   publisher = {Edward Elgar},
-   year = {Forthcoming},
-   type = {Book Section}
+@incollection{bateman2022coding,
+  title={Coding legal norms: an exploratory essay},
+  author={Bateman, Will},
+  booktitle={Regulatory Insights on Artificial Intelligence},
+  pages={133--150},
+  url = {https://www.elgaronline.com/display/book/9781800880788/book-part-9781800880788-13.xml},
+  year={2022},
+  publisher={Edward Elgar Publishing}
 }
 
 @inbook{RN2,
