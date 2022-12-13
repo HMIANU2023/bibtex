@@ -1147,12 +1147,12 @@ Policy for Science and Technology},
   year={2022}
 }
 
-@article{RN53,
-   author = {Adams, R and Loideain, N and Clifford, D},
-   title = {Gender as Emotive AI and the Case of Nadia: Regulatory and Ethical Implications},
-   journal = {Internet Policy Review Special Issue Feminist Data Protection},
-   year = {Forthcoming},
-   type = {Journal Article}
+@article{ni2021gender,
+  title={Gender as Emotive AI and the Case of ‘Nadia’: Regulatory and Ethical Implications},
+  author={Ni Loideain, Nora and Adams, Rachel and Clifford, Damian},
+  journal={Rachel and Clifford, Damian, Gender as Emotive AI and the Case of ‘Nadia’: Regulatory and Ethical Implications (June 2, 2021)},
+  url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858431},
+  year={2021}
 }
 
 @inbook{RN82,
