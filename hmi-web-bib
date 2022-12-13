@@ -1200,12 +1200,11 @@ Policy for Science and Technology},
    type = {Book}
 }
 
-@article{RN19,
-   author = {Steele, K},
-   title = {Why Time Discounting Should be Exponential: A Reply to Callender},
-   journal = {Australasian Philosophical Review},
-   year = {Forthcoming},
-   type = {Journal Article}
+@article{steele2021time,
+  title={Why Time Discounting Should Be Exponential: A Reply to Callender},
+  author={Steele, Katie},
+  year={2021},
+  publisher={SocArXiv}
 }
 
 @inbook{RN88,
