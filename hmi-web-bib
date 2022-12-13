@@ -1260,13 +1260,11 @@ Policy for Science and Technology},
    type = {Journal Article}
 }
 
-@book{RN51,
-   author = {Clifford, D},
-   title = {The Legal Limits to the Monetisation of Online Emotions},
-   publisher = {Oxford University Press},
-   series = {Oxford Data Protection & Privacy Law},
-   year = {Under Contract},
-   type = {Book}
+@article{clifford2019legal,
+  title={The legal limits to the monetisation of online emotions},
+  author={Clifford, Damian},
+  url = {https://lirias.kuleuven.be/2807964?limo=0},
+  year={2019}
 }
 
 @inproceedings{Soen2022FairWF,
