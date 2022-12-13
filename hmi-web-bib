@@ -1113,12 +1113,11 @@ Policy for Science and Technology},
    type = {Edited Book}
 }
 
-@article{RN129,
-   author = {Alfano, M and Reimann, R and Ojea Quintana, I and Cheong, M and Klein, C},
-   title = {The affiliative use of emoji and hashtags in the Black Lives Matter movement in Twitter.},
-   journal = {Social Science Computer Review},
-   year = {Forthcoming},
-   type = {Journal Article}
+@article{alfano2021affiliative,
+  title={The affiliative use of emoji and hashtags in the Black Lives Matter movement: A Twitter case study},
+  author={Alfano, Mark and Reimann, Ritsaart and Quintana, Ignacio and Cheong, Marc and Klein, Colin},
+  url = {https://assets.researchsquare.com/files/rs-741674/v1_covered.pdf?c=1631874781},
+  year={2021}
 }
 
 @article{RN70,
