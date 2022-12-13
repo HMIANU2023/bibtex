@@ -1139,14 +1139,12 @@ Policy for Science and Technology},
    type = {Book Section}
 }
 
-@article{RN134,
-   author = {Steele, K and Stefánsson, H. Orri},
-   title = {Transformative experience, awareness growth and the limits of rational planning},
-   journal = {Philosophy of Science},
-   pages = {1-10},
-   DOI = {https://doi.org/10.1017/psa.2022.55},
-   year = {Forthcoming},
-   type = {Journal Article}
+@article{steele2022transformative,
+  title={Transformative experience, awareness growth and the limits of rational planning},
+  author={Steele, Katie and Stefansson, H Orri},
+  journal={Philosophy of Science},
+  url = {https://philpapers.org/rec/STETEA-12},
+  year={2022}
 }
 
 @article{RN53,
