@@ -1229,12 +1229,11 @@ Policy for Science and Technology},
    type = {Journal Article}
 }
 
-@book{RN15,
-   author = {Logan, S},
-   title = {Hold Your Friends Close: Countering Radicalisation in Britain and America},
-   publisher = {Oxford University Press},
-   year = {In press},
-   type = {Book}
+@article{logan2022hold,
+  title={Hold Your Friends Close: Countering Radicalization in Britain and America},
+  author={Logan, Sarah},
+  url = {https://academic.oup.com/book/44524},
+  year={2022}
 }
 
 @article{RN67,
