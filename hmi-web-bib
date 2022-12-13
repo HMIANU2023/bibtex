@@ -1184,12 +1184,12 @@ Policy for Science and Technology},
    type = {Book Section}
 }
 
-@article{RN85,
-   author = {Davis, J and Love, T},
-   title = {Hashtag Convergence: #GeorgeFloyd and #Covid19},
-   journal = {First Monday },
-   year = {Forthcoming},
-   type = {Journal Article}
+@article{davis2021hashtag,
+  title={Hashtag Convergence:\# georgefloyd and\# covid19},
+  author={Davis, Jenny L and Love, Tony P},
+  url = {https://osf.io/preprints/socarxiv/gjs6v/},
+  year={2021},
+  publisher={SocArXiv}
 }
 
 @book{RN61,
