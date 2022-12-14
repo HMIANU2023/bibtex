@@ -67,17 +67,16 @@
   year={2019}
 }
 
-@article{Lazar2021,
-   author = {Lazar, Seth and Graham, Peter A},
-   title = {Deontological decision theory and lesser-evil options},
-   journal = {Synthese},
-   volume={198},
-   number={7},
-   pages={6889--6916},
-   publisher={Springer}
-   url = {https://doi.org/10.1007/s11229-019-02496-z},
-   year = {2021},
-   type = {Journal Article}
+@article{lazar2021deontological,
+  title={Deontological decision theory and lesser-evil options},
+  author={Lazar, Seth and Graham, Peter A},
+  journal={Synthese},
+  volume={198},
+  number={7},
+  pages={6889--6916},
+  url = {https://link.springer.com/article/10.1007/s11229-019-02496-z},
+  year={2021},
+  publisher={Springer}
 }
 
 @article{wu2019estimating,
