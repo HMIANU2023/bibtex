@@ -9,10 +9,11 @@
   publisher={Frontiers Media SA}
 }
 
-@misc{Bateman2019,
-   author = {Bateman, W},
+@misc{Bateman2019artificial,
+   author = {Bateman, Will},
    title = {Artificial Intelligence, Administrative Law and Financial Regulation},
    month = {August 2019},
+   url = {https://hmi.anu.edu.au/ourwork/artificial-intelligence-administrative-law-and-financial-regulation},
    year = {2019},
    type = {Conference Paper}
 }
