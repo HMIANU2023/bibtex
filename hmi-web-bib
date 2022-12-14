@@ -41,16 +41,14 @@
    type = {Book Section}
 }
 
-@article{Benn2019playtest,
-   author = {Benn, Claire},
-   title = {Playtest and the Power of Virtual Reality: Are Our Fears Real?},
-   journal={Black Mirror and Philosophy: Dark Reflections}
-   publisher = {Wiley Online Library},
-   pages = {92-100},
-   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119578291.ch9},
-   year = {2019},
-   publisher={Wiley Online Library}
-   type = {Journal Article}
+@article{benn2019playtest,
+  title={Playtest and the Power of Virtual Reality: Are Our Fears Real?},
+  author={Benn, Claire},
+  journal={Black Mirror and Philosophy: Dark Reflections},
+  pages={92--100},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119578291.ch9},
+  year={2019},
+  publisher={Wiley Online Library}
 }
 
 @book{Bolinger2019,
