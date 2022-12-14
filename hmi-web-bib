@@ -1,13 +1,12 @@
-@article{Rosenstock2018,
-   author = {Rosenstock, Sarita and O’Connor, Cailin},
-   title = {When It’s Good to Feel Bad: An Evolutionary Model of Guilt and Apology},
-   journal = {Frontiers in Robotics and AI},
-   volume = {5},
-   number = {9},
-   url = {https://www.frontiersin.org/articles/10.3389/frobt.2018.00009/full},
-   year = {2018},
-   publisher={Frontiers Media SA}
-   type = {Journal Article}
+@article{rosenstock2018s,
+  title={When it’s good to feel bad: An evolutionary model of guilt and apology},
+  author={Rosenstock, Sarita and O’Connor, Cailin},
+  journal={Frontiers in Robotics and AI},
+  volume={5},
+  pages={9},
+  url = {https://www.frontiersin.org/articles/10.3389/frobt.2018.00009/full},
+  year={2018},
+  publisher={Frontiers Media SA}
 }
 
 @misc{Bateman2019,
@@ -24,7 +23,7 @@
    journal = {Australian Law Journal},
    volume = {94},
    pages = {520-530},
-   url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496386}
+   url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496386},
    year = {2019},
    type = {Journal Article}
 }
@@ -47,8 +46,9 @@
    journal={Black Mirror and Philosophy: Dark Reflections}
    publisher = {Wiley Online Library},
    pages = {92-100},
-   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119578291.ch9}
+   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119578291.ch9},
    year = {2019},
+   publisher={Wiley Online Library}
    type = {Journal Article}
 }
 
