@@ -222,15 +222,16 @@
    type = {Conference Paper}
 }
 
-@article{RN20,
-   author = {Klein, C},
-   title = {Polychrony and the Process View of Computation},
-   journal = {Philosophy of Science},
-   volume = {87(5)},
-   pages = {1140-1149},
-   DOI = {10.1086/710613},
-   year = {2020},
-   type = {Journal Article}
+@article{klein2020polychrony,
+  title={Polychrony and the Process View of Computation},
+  author={Klein, Colin},
+  journal={Philosophy of Science},
+  volume={87},
+  number={5},
+  pages={1140--1149},
+  url = {https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/polychrony-and-the-process-view-of-computation/FFF603FCA907E4531B311C7C9B587584},
+  year={2020},
+  publisher={Cambridge University Press}
 }
 
 @misc{RN12,
