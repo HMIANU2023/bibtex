@@ -275,7 +275,7 @@
   year={2021}
 }
 
-@article{RN31,
+@article{Shen2020learning,
    author = {Shen, William and Trevizan, Felipe and Thiébaux, Sylvie},
    title = {Learning Domain-Independent Planning Heuristics with Hypergraph Networks},
    journal = {Proceedings of the International Conference on Automated Planning and Scheduling},
