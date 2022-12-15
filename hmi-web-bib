@@ -187,20 +187,12 @@
   year={2019}
 }
 
-@book{RN23,
-   author = {Davis, J},
-   title = {How artifacts afford: the power and politics of everyday things},
-   publisher = {The MIT Press},
-   address = {Cambridge, Massachusetts},
-   note = {http://covers-cdn.summon.serialssolutions.com/index.aspx?isbn=9780262044110/sc.gif&client=summon&freeimage=true;http://covers-cdn.summon.serialssolutions.com/index.aspx?isbn=9780262044110/mc.gif&client=summon&freeimage=true;http://covers-cdn.summon.serialssolutions.com/index.aspx?isbn=9780262044110/lc.gif&client=summon&freeimage=true; U6 - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=book&rft.title=How+artifacts+afford&rft.au=Davis%2C+Jenny+L&rft.series=Design+thinking%2C+design+theory.&rft.date=2020-01-01&rft.pub=The+MIT+Press&rft.isbn=0262044110&rft.externalDocID=b69516042&paramdict=en-US U7 - Book},
-   keywords = {Psychological aspects
-Product design
-Manufactures
-Social aspects},
-   ISBN = {0262044110;9780262044110;},
-   url = {http://anu.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwdV3NDoIwDG78SYzGgwLGHzS8AAYGTu5GwgN4J4OxIx7U-Pq2EyYxetwOzf7Sr-3arwAR2wf-l04QRXiU1DwOAVbKJBBxKVWRJKU8yJK9aQs-vWEMd7RhTDRVuCZ2wdE04EQE2o9ZqF2yyMRW0EpAlcvJCdN86zFiXEO2Y8aERvWjgyXpDAZUXzCHXlVbMGoTzy2YdKgBbbCz69Oja6XKg5snFCWhO-Cm58sp81Fm3gRe8naNjC1gKihhvb7rwja5BE9xjthZIDrHFbpkCJsKLSn69JOBEAVbgfNT1vrP_AbGjFxBHR1wYajw9VZbvcmdPp0X3wpoaA},
-   year = {2020},
-   type = {Book}
+@book{davis2020artifacts,
+  title={How artifacts afford: The power and politics of everyday things},
+  author={Davis, Jenny L},
+  url = {https://books.google.com.au/books?hl=en&lr=&id=Or34DwAAQBAJ&oi=fnd&pg=PR9&dq=How+artifacts+afford:+the+power+and+politics+of+everyday+things&ots=H2EA8KS1_B&sig=6dpsmUyZ3cwRgM0Ly8AipSuvSZQ&redir_esc=y#v=onepage&q=How%20artifacts%20afford%3A%20the%20power%20and%20politics%20of%20everyday%20things&f=false},
+  year={2020},
+  publisher={MIT Press}
 }
 
 @misc{RN24,
@@ -211,20 +203,15 @@ Social aspects},
    type = {Conference Paper}
 }
 
-@article{RN35,
-   author = {Grastien, Alban and Scala, Enrico},
-   title = {CPCES: A planning framework to solve conformant planning problems through a counterexample guided refinement},
-   journal = {Artificial Intelligence},
-   volume = {284},
-   abstract = {We introduce cpces, a novel planner for the problem of deterministic conformant planning. cpces solves the problem by producing candidate plans based on a sample of the initial belief state, searching for counter-examples to these plans, and assigning these counter-examples to the sample, until a valid plan has been produced or the problem has been proved unfeasible. On top of providing a means to compute a conformant plan, the sample can also be understood as a justification for the plan being found, or relevant reasons why a plan cannot be found. We study the theoretical properties that cpces enjoys—correctness, completeness, and optimality—and how the several variants of cpces we describe differ in behaviour. Moreover, we establish a theoretical connection between the cpces framework and well-known concepts from the literature such as tags and width. With this connection we prove the worst case complexity for some variants of cpces. Finally, we show how cpces can be used in a more incremental fashion by learning sequencing of actions from the previous plan being found. Such a technique mimics the use of macro-operators, widely used in automated planning to speedup resolution. Our theoretical analysis is accompanied with a thorough experimental evaluation of the (many) possible incarnations of cpces. This not only proves our theoretical findings from an empirical perspective, but also shows that cpces is able to handle problems that have been traditionally hard to solve by the existing conformant planners, whilst remaining competitive over “easier” conformant planning problems. Importantly, cpces is able to prove many unsolvable conformant planning problems as such, extending substantially the reach of conformant planners.},
-   keywords = {Conformant planning
-Classical planning
-Propositional satisfiability},
-   ISSN = {0004-3702},
-   DOI = {https://doi.org/10.1016/j.artint.2020.103271},
-   url = {https://www.sciencedirect.com/science/article/pii/S000437022030031X},
-   year = {2020},
-   type = {Journal Article}
+@article{grastien2020cpces,
+  title={CPCES: A planning framework to solve conformant planning problems through a counterexample guided refinement},
+  author={Grastien, Alban and Scala, Enrico},
+  journal={Artificial Intelligence},
+  volume={284},
+  pages={103271},
+  url = {https://www.sciencedirect.com/science/article/abs/pii/S000437022030031X},
+  year={2020},
+  publisher={Elsevier}
 }
 
 @misc{RN87,
