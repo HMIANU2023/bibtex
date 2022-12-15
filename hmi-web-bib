@@ -243,16 +243,13 @@
   year={2020}
 }
 
-@misc{RN40,
-   author = {Kong, Q and Rizoiu, M and Xie, L},
-   title = {Modeling Information Cascades with Self-exciting Processes via Generalized Epidemic Models},
-   publisher = {Association for Computing Machinery},
-   pages = {286–294},
-   keywords = {information diffusion, epidemic models, hawkes processes},
-   DOI = {10.1145/3336191.3371821},
-   url = {https://doi.org/10.1145/3336191.3371821},
-   year = {2020},
-   type = {Conference Paper}
+@inproceedings{kong2020modeling,
+  title={Modeling information cascades with self-exciting processes via generalized epidemic models},
+  author={Kong, Quyu and Rizoiu, Marian-Andrei and Xie, Lexing},
+  booktitle={proceedings of the 13th international conference on web search and data mining},
+  pages={286--294},
+  url = {https://dl.acm.org/doi/abs/10.1145/3336191.3371821},
+  year={2020}
 }
 
 @article{RN39,
