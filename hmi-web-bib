@@ -103,31 +103,28 @@
   publisher={Springer}
 }
 
-@article{RN49,
-   author = {Andreas, H and Günther, M},
-   title = {Causation in terms of production},
-   journal = {Philosophical Studies},
-   volume = {177},
-   number = {6},
-   pages = {1565-1591},
-   abstract = {In this paper, we analyse actual causation in terms of production.The latter concept is made precise by a strengthened Ramsey Test semantics of conditionals: $$A \gg C$$ iff, after suspending judgement about A and C, C is believed in the course of assuming A.This test allows us to (epistemically) verify or falsify that an event brings about another event. Complementing the concept of production by a weak condition of difference-making gives rise to a full-fledged analysis of causation.},
-   ISSN = {1573-0883},
-   DOI = {10.1007/s11098-019-01275-3},
-   url = {https://doi.org/10.1007/s11098-019-01275-3},
-   year = {2020},
-   type = {Journal Article}
+@article{andreas2020causation,
+  title={Causation in terms of production},
+  author={Andreas, Holger and G{\"u}nther, Mario},
+  journal={Philosophical Studies},
+  volume={177},
+  number={6},
+  pages={1565--1591},
+  url = {https://link.springer.com/article/10.1007/s11098-019-01275-3},
+  year={2020},
+  publisher={Springer}
 }
 
-@article{RN37,
-   author = {Bales, Adam and Benn, Claire},
-   title = {Supererogation and sequence},
-   journal = {Synthese},
-   abstract = {Morally supererogatory acts are those that go above and beyond the call of duty. More specifically: they are acts that, on any individual occasion, are good to do and also both permissible to do and permissible to refrain from doing. We challenge the way in which discussions of supererogation typically consider our choices and actions in isolation. Instead we consider sequences of supererogatory acts and omissions and show that some such sequences are themselves problematic. This gives rise to the following puzzle: what problem can we have with a sequences of actions if each individual act or omission is itself permissible? In this paper, we develop a response to this question, by exploring whether solutions analogous to those proposed in the rational choice literature are available in the case of supererogatory sequences. Our investigation leads us to the view that making sense of the supererogatory requires accepting that there are global moral norms that apply to sequences of acts alongside the local moral norms that apply to individual acts.},
-   ISSN = {1573-0964},
-   DOI = {10.1007/s11229-020-02547-w},
-   url = {https://doi.org/10.1007/s11229-020-02547-w},
-   year = {2020},
-   type = {Journal Article}
+@article{bales2021supererogation,
+  title={Supererogation and sequence},
+  author={Bales, Adam and Benn, Claire},
+  journal={Synthese},
+  volume={198},
+  number={8},
+  pages={7763--7780},
+  url = {https://link.springer.com/article/10.1007/s11229-020-02547-w},
+  year={2021},
+  publisher={Springer}
 }
 
 @article{RN47,
