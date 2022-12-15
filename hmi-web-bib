@@ -353,25 +353,13 @@
    year = {2020},
 }
 
-@inbook{RN16,
-   author = {Zalnieriute, M and Crawford, L and Boughey, J and Bennett Moses, L and Logan, Ss},
-   title = {From Rule of Law to Statute Drafting: Legal Issues for Algorithms in Government Decision-Making},
-   booktitle = {The Cambridge Handbook of the Law of Algorithms},
-   editor = {Barfield, Woodrow},
-   series = {Cambridge Law Handbooks},
-   publisher = {Cambridge University Press},
-   address = {Cambridge},
-   pages = {251-272},
-   abstract = {The (un)limited potential of algorithmic decision-making is increasingly embraced by numerous private sector actors, ranging from pharmaceutical to banking, and from transport industries to powerful Internet platforms. The celebratory narratives about the use of big data and machine-learning algorithms by private companies to simulate intelligence, improve society, and even save humanity are common and widespread. The deployment of algorithms to automate decision-making also promises to make governments not only more efficient, but also more accurate and fair. Ranging from welfare and criminal justice, to healthcare, national security, and beyond, governments are increasingly relying on algorithms to automate decision-making – a development which has been met with concern by many activists, academics, and members of the general public.1 Yet, it remains incredibly difficult to evaluate and measure the nature and impact of automated systems, even as empirical research has demonstrated their potential for bias and individual harm.2 These opaque and elusive systems often are not subject to the same accountability or oversight mechanisms as other public actors in our legal systems, which raises questions about their compatibility with fundamental principles of public law. It is thus not surprising that numerous scholars are increasingly calling for more attention to be paid to the use of algorithms in government decision-making.3},
-   keywords = {Algorithm
-Statute Drafting
-Decision-Making
-Privacy},
-   ISBN = {9781108481960},
-   DOI = {DOI: 10.1017/9781108680844.014},
-   url = {https://www.cambridge.org/core/books/cambridge-handbook-of-the-law-of-algorithms/from-rule-of-law-to-statute-drafting/7257AE46EBD323E5E4126FBD81D5A4A0},
-   year = {2020},
-   type = {Book Section}
+@article{zalnieriute2019rule,
+  title={From rule of law to statute drafting: legal issues for algorithms in government decision-making},
+  author={Zalnieriute, Monika and Burton, Lisa and Boughey, Janina and Bennett Moses, Lyria and Logan, Sarah},
+  journal={The Cambridge Handbook of the Law of Algorithms (Cambridge University Press 2021)},
+  pages={251--272},
+  url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3380072},
+  year={2019}
 }
 
 @inproceedings{zhang2020computing,
