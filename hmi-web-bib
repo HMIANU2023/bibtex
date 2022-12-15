@@ -264,13 +264,15 @@
   publisher={Taylor \& Francis}
 }
 
-@article{RN21,
-   author = {Richardson, M and Clifford, D  and Clark, K  and Bosua, R},
-   title = {The Internet of Things (IoT) and the meaning of “personal data”: a case study in regulation for rights},
-   journal = {Special issue on Internet of Things and Consumer Protection in Revue européenne de droit de la consommation},
-   pages = {503-522},
-   year = {2020},
-   type = {Journal Article}
+@article{richardson2021internet,
+  title={The Internet of Things (IoT) and the Meaning of'personal data': a Case Study in Regulation of Rights},
+  author={Richardson, Megan and Clifford, Damien and Clarke, Karin and Bosua, R},
+  journal={Revue Europ{\'e}enne de Droit de la Consommation/European Journal of Consumer Law},
+  volume={20},
+  number={3},
+  pages={503--522},
+  url = {https://www.narcis.nl/publication/RecordID/oai:research.ou.nl:publications%2Faf1513b5-8485-4a25-9887-1eedcb353226},
+  year={2021}
 }
 
 @article{RN31,
