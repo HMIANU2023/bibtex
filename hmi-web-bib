@@ -234,16 +234,13 @@
   publisher={Cambridge University Press}
 }
 
-@misc{RN12,
-   author = {Kong, Q and Rizoiu, M and Xie, L},
-   title = {Describing and Predicting Online Items with Reshare Cascades via Dual Mixture Self-exciting Processes},
-   publisher = {Association for Computing Machinery},
-   pages = {645–654},
-   keywords = {self-exciting processes, reshare cascades, dual mixture processes, online information diffusion, Hawkes processes},
-   DOI = {10.1145/3340531.3411861},
-   url = {https://doi.org/10.1145/3340531.3411861},
-   year = {2020},
-   type = {Conference Paper}
+@inproceedings{kong2020describing,
+  title={Describing and predicting online items with reshare cascades via dual mixture self-exciting processes},
+  author={Kong, Quyu and Rizoiu, Marian-Andrei and Xie, Lexing},
+  booktitle={Proceedings of the 29th ACM International Conference on Information \& Knowledge Management},
+  pages={645--654},
+  url = {https://dl.acm.org/doi/abs/10.1145/3340531.3411861},
+  year={2020}
 }
 
 @misc{RN40,
