@@ -169,14 +169,14 @@
    year = {2017},
 }
 
-@article{RN22,
-   author = {Clifford, D and Paterson, J},
-   title = {Consumer Privacy and Consent: Reform in the Light of Contract and Consumer Protection Law},
-   journal = {Australian Law Journal },
-   volume = {94},
-   pages = {741-751},
-   year = {2020},
-   type = {Journal Article}
+@article{clifford2020consumer,
+  title={Consumer privacy and consent: Reform in the light of contract and consumer protection law},
+  author={Clifford, Damian and Paterson, Jeannie Marie},
+  journal={Australian Law Journal},
+  volume={94},
+  number={10},
+  url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795141},
+  year={2020}
 }
 
 @misc{RN65,
