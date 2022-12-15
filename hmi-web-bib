@@ -91,16 +91,16 @@
   publisher={ACM New York, NY, USA}
 }
 
-@article{RN28,
-   author = {Alfano, Mark and Fard, Amir Ebrahimi and Carter, J. Adam and Clutton, Peter and Klein, Colin},
-   title = {Technologically scaffolded atypical cognition: the case of YouTube’s recommender system},
-   journal = {Synthese},
-   abstract = {YouTube has been implicated in the transformation of users into extremists and conspiracy theorists. The alleged mechanism for this radicalizing process is YouTube’s recommender system, which is optimized to amplify and promote clips that users are likely to watch through to the end. YouTube optimizes for watch-through for economic reasons: people who watch a video through to the end are likely to then watch the next recommended video as well, which means that more advertisements can be served to them. This is a seemingly innocuous design choice, but it has a troubling side-effect. Critics of YouTube have alleged that the recommender system tends to recommend extremist content and conspiracy theories, as such videos are especially likely to capture and keep users’ attention. To date, the problem of radicalization via the YouTube recommender system has been a matter of speculation. The current study represents the first systematic, pre-registered attempt to establish whether and to what extent the recommender system tends to promote such content. We begin by contextualizing our study in the framework of technological seduction. Next, we explain our methodology. After that, we present our results, which are consistent with the radicalization hypothesis. Finally, we discuss our findings, as well as directions for future research and recommendations for users, industry, and policy-makers.},
-   ISSN = {1573-0964},
-   DOI = {10.1007/s11229-020-02724-x},
-   url = {https://doi.org/10.1007/s11229-020-02724-x},
-   year = {2020},
-   type = {Journal Article}
+@article{alfano2021technologically,
+  title={Technologically scaffolded atypical cognition: The case of YouTube’s recommender system},
+  author={Alfano, Mark and Fard, Amir Ebrahimi and Carter, J Adam and Clutton, Peter and Klein, Colin},
+  journal={Synthese},
+  volume={199},
+  number={1},
+  pages={835--858},
+  url = {https://link.springer.com/article/10.1007/s11229-020-02724-x},
+  year={2021},
+  publisher={Springer}
 }
 
 @article{RN49,
