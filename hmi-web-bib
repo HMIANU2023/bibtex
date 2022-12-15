@@ -252,18 +252,16 @@
   year={2020}
 }
 
-@article{RN39,
-   author = {Orr, W and Davis, J},
-   title = {Attributions of ethical responsibility by Artificial Intelligence practitioners},
-   journal = {Information, Communication & Society},
-   volume = {23},
-   number = {5},
-   pages = {719-735},
-   ISSN = {1369-118X},
-   DOI = {10.1080/1369118X.2020.1713842},
-   url = {https://doi.org/10.1080/1369118X.2020.1713842},
-   year = {2020},
-   type = {Journal Article}
+@article{orr2020attributions,
+  title={Attributions of ethical responsibility by Artificial Intelligence practitioners},
+  author={Orr, Will and Davis, Jenny L},
+  journal={Information, Communication \& Society},
+  volume={23},
+  number={5},
+  pages={719--735},
+  url = {https://www.tandfonline.com/doi/abs/10.1080/1369118X.2020.1713842},
+  year={2020},
+  publisher={Taylor \& Francis}
 }
 
 @article{RN21,
