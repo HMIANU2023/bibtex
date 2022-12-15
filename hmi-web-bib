@@ -127,19 +127,16 @@
   publisher={Springer}
 }
 
-@article{RN47,
-   author = {Benn, Claire and Bales, Adam},
-   title = {The Rationally Supererogatory},
-   journal = {Mind},
-   volume = {129},
-   number = {515},
-   pages = {917-938},
-   abstract = {The notion of supererogation—going above and beyond the call of duty—is typically discussed in a moral context. However, in this paper we argue for the existence of rationally supererogatory actions: that is, actions that go above and beyond the call of rational duty. In order to establish the existence of such actions, we first need to overcome the so-called paradox of supererogation: we need to provide some explanation for why, if some act is rationally optimal, it is not the case that we are rationally required to carry out that act. We argue that a response to this ‘paradox’ can be found by reflecting on normative conflicts: cases where what is best according to some normative domain is different from what is best according to some other normative domain.},
-   ISSN = {0026-4423},
-   DOI = {10.1093/mind/fzz055},
-   url = {https://doi.org/10.1093/mind/fzz055},
-   year = {2020},
-   type = {Journal Article}
+@article{benn2020rationally,
+  title={The rationally supererogatory},
+  author={Benn, Claire and Bales, Adam},
+  journal={Mind},
+  volume={129},
+  number={515},
+  pages={917--938},
+  url = {https://academic.oup.com/mind/article-abstract/129/515/917/5580317},
+  year={2020},
+  publisher={Oxford University Press}
 }
 
 @article{bista2020supmmd,
@@ -150,17 +147,16 @@
   year={2020}
 }
 
-@article{RN14,
-   author = {Chan, J and Logan, S and Bennett Moses, L},
-   title = {Rules in information sharing for security},
-   journal = {Criminology & Criminal Justice},
-   pages = {1-19},
-   abstract = {Information sharing has become a central concern for security agencies since 9/11. Previous research has identified a number of barriers to information sharing among agencies: a combination of legal or policy constraints, interagency rivalry and mistrust, and technology. Drawing on ideas from the sociology of information and trust, this article conceptualises the sharing/withholding of information between agencies as dependent on rules as a system of trust. Adapting Richard Ericson?s framework of the different contexts of rule-following and making use of an Australian case study, the article demonstrates how law, culture and technology are intertwined in constraining or enabling access to information. The implications of this model for legal and policy interventions are discussed.},
-   ISSN = {1748-8958},
-   DOI = {10.1177/1748895820960199},
-   url = {https://doi.org/10.1177/1748895820960199},
-   year = {2020},
-   type = {Journal Article}
+@article{chan2022rules,
+  title={Rules in information sharing for security},
+  author={Chan, Janet and Logan, Sarah and Bennett Moses, Lyria},
+  journal={Criminology & Criminal Justice},
+  volume={22},
+  number={2},
+  pages={304--322},
+  url = {https://journals.sagepub.com/doi/abs/10.1177/1748895820960199},
+  year={2022},
+  publisher={SAGE Publications Sage UK: London, England}
 }
 
 @inbook{RN29,
