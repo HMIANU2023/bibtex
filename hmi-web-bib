@@ -179,11 +179,12 @@
   year={2020}
 }
 
-@misc{RN65,
-   author = {Collins, N and Kurniawati, H},
-   title = {Partially Observable Planning and Learning for Systems with Non-Uniform Dynamics},
-   year = {2020},
-   type = {Conference Paper}
+@article{collins2019partially,
+  title={Partially Observable Planning and Learning for Systems with Non-Uniform Dynamics},
+  author={Collins, Nicholas and Kurniawati, Hanna},
+  journal={arXiv preprint arXiv:1907.04457},
+  url = {https://arxiv.org/abs/1907.04457},
+  year={2019}
 }
 
 @book{RN23,
