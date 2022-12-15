@@ -334,7 +334,7 @@
    type = {Journal Article}
 }
 
-@inproceedings{Transform2020,
+@inproceedings{tran2020transform,
    author = {Tran, Alasdair and Mathews, Alexander and Xie, Lexing},
    title = {Transform and Tell: Entity-Aware News Image Captioning},
    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
@@ -343,7 +343,7 @@
    year = {2020},
 }
 
-@inproceedings{Variation2020,
+@inproceedings{wu2020variation,
    author = {Wu, Siqi and Rizoiu, Marian-Andrei and Xie, Lexing},
    title = {Variation across Scales: Measurement Fidelity under Twitter Data Sampling},
    booktitle = {Proceedings of the international AAAI conference on web and social media},
