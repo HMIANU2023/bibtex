@@ -309,16 +309,16 @@
    type = {Generic}
 }
 
-@article{RN18,
-   author = {Steele, Katie and Stefánsson, H. Orri},
-   title = {Belief Revision for Growing Awareness},
-   journal = {Mind},
-   abstract = {The Bayesian maxim for rational learning could be described as conservative change from one probabilistic belief or credence function to another in response to new information. Roughly: ‘Hold fixed any credences that are not directly affected by the learning experience.’ This is precisely articulated for the case when we learn that some proposition that we had previously entertained is indeed true (the rule of conditionalization). But can this conservative-change maxim be extended to revising one’s credences in response to entertaining propositions or concepts of which one was previously unaware? The economists Karni and Vierø (2013, 2015) make a proposal in this spirit. Philosophers have adopted effectively the same rule: revision in response to growing awareness should not affect the relative probabilities of propositions in one’s ‘old’ epistemic state. The rule is compelling, but only under the assumptions that its advocates introduce. It is not a general requirement of rationality, or so we argue. We provide informal counterexamples. And we show that, when awareness grows, the boundary between one’s ‘old’ and ‘new’ epistemic commitments is blurred. Accordingly, there is no general notion of conservative change in this setting.},
-   ISSN = {0026-4423},
-   DOI = {10.1093/mind/fzaa056},
-   url = {https://doi.org/10.1093/mind/fzaa056},
-   year = {2020},
-   type = {Journal Article}
+@article{steele2021belief,
+  title={Belief revision for growing awareness},
+  author={Steele, Katie and Stef{\'a}nsson, H Orri},
+  journal={Mind},
+  volume={130},
+  number={520},
+  pages={1207--1232},
+  url = {https://academic.oup.com/mind/article-abstract/130/520/1207/6102900},
+  year={2021},
+  publisher={Oxford University Press}
 }
 
 @article{RN34,
