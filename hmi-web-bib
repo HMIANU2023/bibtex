@@ -288,16 +288,16 @@
    type = {Journal Article}
 }
 
-@article{RN33,
-   author = {Steele, K},
-   title = {How to be imprecise and yet immune to sure loss},
-   journal = {Synthese},
-   abstract = {Towards the end of Decision Theory with a Human Face (2017), Richard Bradley discusses various ways a rational yet human agent, who, due to lack of evidence, is unable to make some fine-grained credibility judgments, may nonetheless make systematic decisions. One proposal is that such an agent can simply “reach judgments” on the fly, as needed for decision making. In effect, she can adopt a precise probability function to serve as proxy for her imprecise credences (or set of probability functions) at the point of decision, and then subsequently abandon the proxy as she proceeds to learn more about the world. Contra Bradley, I argue that an agent who employs this strategy does not necessarily act like a precise Bayesian, since she is not necessarily immune to sure loss in diachronic, as well as synchronic, settings. I go on to suggest a method for determining a proxy probability function (via geometric averaging) whereby the agent does act like a precise Bayesian, so understood.},
-   ISSN = {1573-0964},
-   DOI = {10.1007/s11229-020-02665-5},
-   url = {https://doi.org/10.1007/s11229-020-02665-5},
-   year = {2020},
-   type = {Journal Article}
+@article{steele2021imprecise,
+  title={How to be imprecise and yet immune to sure loss},
+  author={Steele, Katie},
+  journal={Synthese},
+  volume={199},
+  number={1},
+  pages={427--444},
+  url = {https://link.springer.com/article/10.1007/s11229-020-02665-5},
+  year={2021},
+  publisher={Springer}
 }
 
 @misc{RN10,
