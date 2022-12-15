@@ -321,14 +321,15 @@
   publisher={Oxford University Press}
 }
 
-@article{RN34,
+@article{toyer2020asnets,
    author = {Toyer, Sam and Thiébaux, Sylvie and Trevizan, Felipe and Xie, Lexing},
-   title = {ASNets: Deep Learning for Generalised Planning},
+   title = {Asnets: Deep Learning for Generalised Planning},
    journal = {The Journal of artificial intelligence research},
    volume = {68},
    pages = {1-68},
    ISSN = {1076-9757},
    DOI = {10.1613/jair.1.11633},
+   url = {https://www.jair.org/index.php/jair/article/view/11633},
    year = {2020},
    type = {Journal Article}
 }
