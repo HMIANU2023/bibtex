@@ -663,11 +663,16 @@
    type = {Edited Book}
 }
 
-@book{RN97,
-   author = {Lazar, S and Vredenburgh, K and Zimmermann, A},
-   title = {The Political Philosophy of Data and AI: Canadian Journal of Philosophy Special Issue},
-   year = {2021},
-   type = {Edited Book}
+@article{zimmermann2022political,
+  title={The Political Philosophy of Data and AI},
+  author={Zimmermann, Annette and Vredenburgh, Kate and Lazar, Seth},
+  journal={Canadian Journal of Philosophy},
+  volume={52},
+  number={1},
+  pages={1--5},
+  url = {https://www.cambridge.org/core/journals/canadian-journal-of-philosophy/article/political-philosophy-of-data-and-ai/B7C38B3D585739080CC94EC48A6E6D7C},
+  year={2022},
+  publisher={Cambridge University Press}
 }
 
 @misc{RN103,
