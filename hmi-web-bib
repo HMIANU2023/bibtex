@@ -760,16 +760,13 @@
   year={2021}
 }
 
-@misc{RN77,
-   author = {Shin, M and Tran, A and Wu, S and Mathews, A and Wang, R and Lyall, G and Xie, L},
-   title = {AttentionFlow: Visualising Influence in Networks of Time Series},
-   publisher = {Association for Computing Machinery},
-   pages = {1085–1088},
-   keywords = {influence visualisation, networks of time series, ego network},
-   DOI = {10.1145/3437963.3441703},
-   url = {https://doi.org/10.1145/3437963.3441703},
-   year = {2021},
-   type = {Conference Paper}
+@inproceedings{shin2021attentionflow,
+  title={Attentionflow: visualising influence in networks of time series},
+  author={Shin, Minjeong and Tran, Alasdair and Wu, Siqi and Mathews, Alexander and Wang, Rong and Lyall, Georgiana and Xie, Lexing},
+  booktitle={Proceedings of the 14th ACM International Conference on Web Search and Data Mining},
+  pages={1085--1088},
+  url = {https://dl.acm.org/doi/abs/10.1145/3437963.3441703},
+  year={2021}
 }
 
 @misc{RN110,
