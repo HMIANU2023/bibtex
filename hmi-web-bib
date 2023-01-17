@@ -500,16 +500,13 @@
   year={2021}
 }
 
-@misc{RN57,
-   author = {Gray, C and Santos, C and Bielova, N and Toth, M and Clifford, D},
-   title = {Dark Patterns and the Legal Requirements of Consent Banners: An Interaction Criticism Perspective},
-   publisher = {Association for Computing Machinery},
-   pages = {1-18},
-   ISBN = {9781450380966},
-   DOI = {10.1145/3411764.3445779},
-   url = {https://doi.org/10.1145/3411764.3445779},
-   year = {2021},
-   type = {Conference Paper}
+@inproceedings{gray2021dark,
+  title={Dark patterns and the legal requirements of consent banners: An interaction criticism perspective},
+  author={Gray, Colin M and Santos, Cristiana and Bielova, Nataliia and Toth, Michael and Clifford, Damian},
+  booktitle={Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
+  pages={1--18},
+  url = {https://dl.acm.org/doi/abs/10.1145/3411764.3445779},
+  year={2021}
 }
 
 @article{RN7,
