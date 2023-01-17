@@ -769,11 +769,14 @@
   year={2021}
 }
 
-@misc{RN110,
-   author = {Soen, A and Sun, K},
-   title = {On the Variance of the Fisher Information for Deep Learning},
-   year = {2021},
-   type = {Conference Paper}
+@article{soen2021variance,
+  title={On the Variance of the Fisher Information for Deep Learning},
+  author={Soen, Alexander and Sun, Ke},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={5708--5719},
+  url = {https://proceedings.neurips.cc/paper/2021/hash/2d290e496d16c9dcaa9b4ded5cac10cc-Abstract.html},
+  year={2021}
 }
 
 @book{RN89,
