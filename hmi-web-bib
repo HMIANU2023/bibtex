@@ -738,15 +738,16 @@
   publisher={IEEE}
 }
 
-@article{RN25,
-   author = {Rosenstock, S},
-   title = {Learning from the Shape of Data },
-   journal = {Philosophy of Science},
-   volume = {88},
-   number = {5},
-   pages = {1033-1044},
-   year = {2021},
-   type = {Journal Article}
+@article{rosenstock2021learning,
+  title={Learning from the Shape of Data},
+  author={Rosenstock, Sarita},
+  journal={Philosophy of Science},
+  volume={88},
+  number={5},
+  pages={1033--1044},
+  url = {https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/learning-from-the-shape-of-data/99CF26A93DD5C48691945D40683D9444},
+  year={2021},
+  publisher={Cambridge University Press}
 }
 
 @article{RN72,
