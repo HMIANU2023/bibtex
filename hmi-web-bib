@@ -475,13 +475,12 @@
   publisher={Cambridge University Press}
 }
 
-@misc{RN5,
-   author = {Ford, J and Clifford, D},
-   title = {Embracing difference: Governance of critical technologies in the Indo-Pacific},
-   publisher = {The National Security College},
-   url = {https://crawford.anu.edu.au/publication/18418/embracing-difference-governance-critical-technologies-indo-pacific},
-   year = {2021},
-   type = {Electronic Article}
+@article{ford2021embracing,
+  title={Embracing Difference: Governance of Critical Technologies in the Indo-Pacific},
+  author={Ford, Jolyon and Clifford, Damian and others},
+  url = {https://openresearch-repository.anu.edu.au/bitstream/1885/227730/1/quad-tech-network-series-embracing-difference-governance-critical-technologies-indo-pacific.pdf},
+  year={2021},
+  publisher={National Security College, Australian National University}
 }
 
 @book{RN98,
