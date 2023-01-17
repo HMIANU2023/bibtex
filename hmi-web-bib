@@ -636,15 +636,13 @@
   year={2021}
 }
 
-@inbook{RN63,
-   author = {Klein, C},
-   title = {Do we represent peripersonal space},
-   booktitle = {The World at our Fingertips: A Multidisciplinary Exploration of Peripersonal Space },
-   editor = {de Vignemont, F and Wong, H.Y and Serino, A and Farn´e, A},
-   publisher = {Oxford University Press},
-   address = {Oxford, UK},
-   year = {2021},
-   type = {Book Section}
+@article{klein2021we,
+  title={Do we represent peripersonal space},
+  author={Klein, Colin},
+  journal={The World at Our Fingertips: A Multidisciplinary Exploration of Peripersonal Space},
+  url = {https://books.google.com.au/books?hl=en&lr=&id=nnEhEAAAQBAJ&oi=fnd&pg=PA139&dq=Do+we+represent+peripersonal+space,+C+Klein&ots=C8MWgRBJSD&sig=PK2_znGr3NI31FFvD4uvnUFH1MI#v=onepage&q=Do%20we%20represent%20peripersonal%20space%2C%20C%20Klein&f=false},
+  year={2021},
+  publisher={Oxford University Press}
 }
 
 @inbook{RN62,
