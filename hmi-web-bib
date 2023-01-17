@@ -729,15 +729,13 @@
   year={2021}
 }
 
-@article{RN69,
-   author = {Robinson, P and Sun, L. and Furey, H. and Jenkins, R. and Phillips, C and Powers, T and Ritterson, R  and Xie, Y and Casagrande, R and Evans, N},
-   title = {Modelling Ethical Algorithms in Autonomous Vehicles Using Crash Data},
-   journal = {IEEE Transactions on Intelligent Transportation Systems},
-   pages = {1-10},
-   ISSN = {1558-0016},
-   DOI = {10.1109/TITS.2021.3072792},
-   year = {2021},
-   type = {Journal Article}
+@article{robinson2021modelling,
+  title={Modelling Ethical Algorithms in Autonomous Vehicles Using Crash Data},
+  author={Robinson, Pamela and Sun, Landy and Furey, Heidi and Jenkins, Ryan and Phillips, Christopher RM and Powers, Thomas M and Ritterson, Ryan S and Xie, Yuanchang and Casagrande, Rocco and Evans, Nicholas G},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  url = {https://ieeexplore.ieee.org/abstract/document/9440828},
+  year={2021},
+  publisher={IEEE}
 }
 
 @article{RN25,
