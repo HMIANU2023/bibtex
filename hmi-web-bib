@@ -830,11 +830,13 @@
    publisher={Brill}
 }
 
-@misc{RN108,
-   author = {Xie, L and Wu, S and Resnick, P},
-   title = {Cross-Partisan Discussions on YouTube: Conservatives Talk to Liberals but Liberals Don’t Talk to Conservatives},
-   year = {2021},
-   type = {Conference Paper}
+@inproceedings{wu2021cross,
+  title={Cross-Partisan Discussions on YouTube: Conservatives Talk to Liberals but Liberals Don't Talk to Conservatives},
+  author={Wu, Siqi and Resnick, Paul},
+  booktitle={Proceedings of the Fifteenth International AAAI Conference on Web and Social Media},
+  volume={15},
+  url = {https://scholar.google.com.au/scholar?hl=en&as_sdt=0%2C5&q=Cross-Partisan+Discussions+on+YouTube%3A+Conservatives+Talk+to+Liberals+but+Liberals+Don%E2%80%99t+Talk+to+Conservatives&btnG=},
+  year={2021}
 }
 
 @incollection{RN117,
