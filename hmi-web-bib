@@ -750,17 +750,14 @@
   publisher={Cambridge University Press}
 }
 
-@article{RN72,
-   author = {Scala, E and Grastien, A},
-   title = {Non-Deterministic Conformant Planning Using a Counterexample-Guided Incremental Compilation to Classical Planning},
-   journal = {Proceedings of the International Conference on Automated Planning and Scheduling},
-   volume = {31},
-   number = {1},
-   pages = {299-307},
-   abstract = {We address the problem of non-deterministic conformant planning, i.e., finding a plan in a non-deterministic context where the environment is not observable. Our approach uses an unsound but complete reduction from non-deterministic conformant planning to classical planning to find a candidate plan; the validity of this plan is then verified by a SAT solver; if the plan is invalid, the reduction is revised to guarantee that the invalid plan will not be valid in the classical planning problem. This procedure is executed until a valid plan is found, or it is shown that there is no plan. Experiments show that this approach provides a nice trade-off between fast but unsound, and complete but slow approaches.},
-   url = {https://ojs.aaai.org/index.php/ICAPS/article/view/15974},
-   year = {2021},
-   type = {Journal Article}
+@inproceedings{scala2021non,
+  title={Non-Deterministic Conformant Planning Using a Counterexample-Guided Incremental Compilation to Classical Planning},
+  author={Scala, Enrico and Grastien, Alban},
+  booktitle={Proceedings of the International Conference on Automated Planning and Scheduling},
+  volume={31},
+  pages={299--307},
+  url = {https://ojs.aaai.org/index.php/ICAPS/article/view/15974},
+  year={2021}
 }
 
 @misc{RN77,
