@@ -509,16 +509,14 @@
   year={2021}
 }
 
-@article{RN7,
+@article{gunther2021epistemic,
    author = {Günther, Mario},
    title = {Epistemic sensitivity and evidence},
    journal = {Inquiry},
    pages = {1-19},
-   ISSN = {0020-174X},
-   DOI = {10.1080/0020174X.2021.1936158},
-   url = {https://doi.org/10.1080/0020174X.2021.1936158},
+   url = {https://www.tandfonline.com/doi/abs/10.1080/0020174X.2021.1936158},
    year = {2021},
-   type = {Journal Article}
+   publisher={Taylor \& Francis}
 }
 
 @article{RN79,
