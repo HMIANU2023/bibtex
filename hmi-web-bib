@@ -787,14 +787,16 @@
   publisher={Cambridge University Press}
 }
 
-@article{RN90,
-   author = {Steele, K and Stefánsson, H. Orri},
-   title = {Belief Revision for Growing Awareness},
-   journal = {Mind},
-   volume = {130(4)},
-   pages = {1207-1232},
-   year = {2021},
-   type = {Journal Article}
+@article{steele2021belief,
+  title={Belief revision for growing awareness},
+  author={Steele, Katie and Stef{\'a}nsson, H Orri},
+  journal={Mind},
+  volume={130},
+  number={520},
+  pages={1207--1232},
+  url = {https://academic.oup.com/mind/article-abstract/130/520/1207/6102900?login=false},
+  year={2021},
+  publisher={Oxford University Press}
 }
 
 @inproceedings{tran2021radflow,
@@ -816,17 +818,16 @@
    type = {Book Section}
 }
 
-@article{RN4,
+@article{verdoodt2021esports,
    author = {Verdoodt, Valerie and Fordyce, Robbie and Archbold, Lisa and Gordon, Faith and Clifford, Damian},
    title = {Esports and the Platforming of Child’s Play During covid-19},
    journal = {The International Journal of Children's Rights},
    volume = {29},
    number = {2},
    pages = {496-520},
-   DOI = {https://doi.org/10.1163/15718182-29020013},
    url = {https://brill.com/view/journals/chil/29/2/article-p496_496.xml},
    year = {2021},
-   type = {Journal Article}
+   publisher={Brill}
 }
 
 @article{RN8,
