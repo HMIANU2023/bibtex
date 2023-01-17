@@ -412,14 +412,14 @@
    publisher={Taylor \& Francis}
 }
 
-@article{RN71,
-   author = {Benn, C and Lazar, S},
-   title = {What's wrong with Automated Influence},
-   journal = {Canadian Journal of Philosophy },
-   pages = {1-24},
-   DOI = {10.1017/can.2021.23},
-   year = {2021},
-   type = {Journal Article}
+@article{benn2022s,
+  title={What’s wrong with Automated Influence},
+  author={Benn, Claire and Lazar, Seth},
+  journal={Canadian Journal of Philosophy},
+  pages={1--24},
+  year={2022},
+  url = {https://www.cambridge.org/core/journals/canadian-journal-of-philosophy/article/whats-wrong-with-automated-influence/98F5E24BEADE585050B773D2CBEB1F39},
+  publisher={Cambridge University Press}
 }
 
 @article{RN99,
