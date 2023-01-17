@@ -530,15 +530,6 @@
    year={2021}
 }
 
-@article{RN80,
-   author = {Günther, M and Andreas, H},
-   title = {Epistemic Sensitivity and Evidence},
-   journal = {Inquiry },
-   DOI = {https://doi.org/10.1080/0020174X.2021.1936158},
-   year = {2021},
-   type = {Journal Article}
-}
-
 @misc{RN81,
    author = {Günther, M and Andreas, H},
    title = {Regularity and Inferential Theories of Causation},
