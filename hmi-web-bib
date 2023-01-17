@@ -443,20 +443,16 @@
   publisher={Taylor \& Francis}
 }
 
-@article{RN105,
-   author = {Davis, J and Williams, A and Yang, M},
-   title = {Algorithmic reparation},
-   journal = {Big Data and Society},
-   DOI = {10.1177/20539517211044808},
-   year = {2021},
-   type = {Journal Article}
-}
-
-@misc{RN113,
-   author = {Davis, J and Williams, A and Yang, M},
-   title = {Algorithmic Reparation},
-   year = {2021},
-   type = {Conference Paper}
+@article{davis2021algorithmic,
+  title={Algorithmic reparation},
+  author={Davis, Jenny L and Williams, Apryl and Yang, Michael W},
+  journal={Big Data \& Society},
+  volume={8},
+  number={2},
+  pages={20539517211044808},
+  url = {https://journals.sagepub.com/doi/full/10.1177/20539517211044808},
+  year={2021},
+  publisher={SAGE Publications Sage UK: London, England}
 }
 
 @techreport{RN102,
