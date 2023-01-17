@@ -645,20 +645,14 @@
   publisher={Oxford University Press}
 }
 
-@inbook{RN62,
-   author = {Klein, C and Clutton, P},
-   title = {What Is the Job of the Job Description Challenge? A Study in Esoteric and Exoteric Semantics},
-   booktitle = {Neural Mechanisms: New Challenges in the Philosophy of Neuroscience},
-   editor = {Calzavarini, F and Viola, M},
-   publisher = {Springer International Publishing},
-   address = {Cham},
-   pages = {449-463},
-   abstract = {Ramsey’s Job Description Challenge has received substantial attention in debates over mental representation. We distinguish two senses of representational semantics: esoteric semantics, which concern the relationship between a representation and the world, and exoteric semantics, which concern the semantics of representations within a computational framework. Given that pair, we argue that there are three ways in which you could look to cognitive science to answer the job description challenge. Two of those ways make the job description challenge trivial—that is, answerable but uninteresting. We think that the recent literature has focused on readings to the challenge that possess this failing. We argue that Ramsey’s challenge is best understood in terms of the interaction between esoteric and exoteric semantics. This third reading is more complicated to address but more interesting to answer. Understood in this way, the answers to the challenge will be local and case-by-case. On some of these cases, as we review, the challenge is met.},
-   ISBN = {978-3-030-54092-0},
-   DOI = {10.1007/978-3-030-54092-0_19},
-   url = {https://doi.org/10.1007/978-3-030-54092-0_19},
-   year = {2021},
-   type = {Book Section}
+@incollection{klein2021job,
+  title={What Is the Job of the Job Description Challenge? A Study in Esoteric and Exoteric Semantics},
+  author={Klein, Colin and Clutton, Peter},
+  booktitle={Neural Mechanisms},
+  pages={449--463},
+  url = {https://link.springer.com/chapter/10.1007/978-3-030-54092-0_19},
+  year={2021},
+  publisher={Springer}
 }
 
 @book{RN59,
