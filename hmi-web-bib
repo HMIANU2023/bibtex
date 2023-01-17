@@ -591,11 +591,12 @@
   publisher={Cambridge University Press}
 }
 
-@misc{RN86,
-   author = {Kasirzadeh, A},
-   title = {Reasons, Values, Stakeholders: A Philosophical Framework for Explainable Artificial Intelligence},
-   year = {2021},
-   type = {Conference Paper}
+@article{kasirzadeh2021reasons,
+  title={Reasons, values, stakeholders: A philosophical framework for explainable artificial intelligence},
+  author={Kasirzadeh, Atoosa},
+  journal={arXiv preprint arXiv:2103.00752},
+  url = {https://arxiv.org/abs/2103.00752},
+  year={2021}
 }
 
 @article{RN93,
