@@ -609,13 +609,13 @@
   publisher={Springer}
 }
 
-@misc{RN56,
-   author = {Kasirzadeh, A and Clifford, C},
-   title = {Fairness and Data Protection Impact Assessments},
-   pages = {202},
-   month = {May 19–21},
-   year = {2021},
-   type = {Conference Paper}
+@inproceedings{kasirzadeh2021fairness,
+  title={Fairness and Data Protection Impact Assessments},
+  author={Kasirzadeh, Atoosa and Clifford, Damian},
+  booktitle={Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society},
+  pages={146--153},
+  url = {https://dl.acm.org/doi/abs/10.1145/3461702.3462528},
+  year={2021}
 }
 
 @misc{RN60,
