@@ -463,12 +463,16 @@
   year={2021}
 }
 
-@article{RN95,
-   author = {Dolman, C and Frees, E and Huang, F},
-   title = {Multidisciplinary collaboration on discrimination – not just “Nice to Have”},
-   journal = {Annals of Actuarial Science},
-   year = {2021},
-   type = {Journal Article}
+@article{dolman2021multidisciplinary,
+  title={Multidisciplinary collaboration on discrimination--not just “Nice to Have”},
+  author={Dolman, Chris and Frees, Edward Jed and Huang, Fei},
+  journal={Annals of Actuarial Science},
+  volume={15},
+  number={3},
+  pages={485--487},
+  url = {https://www.cambridge.org/core/journals/annals-of-actuarial-science/article/multidisciplinary-collaboration-on-discrimination-not-just-nice-to-have/1314A1A9667B8787E4C2614B53F19580},
+  year={2021},
+  publisher={Cambridge University Press}
 }
 
 @misc{RN5,
