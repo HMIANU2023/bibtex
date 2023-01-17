@@ -537,13 +537,16 @@
   year={2021}
 }
 
-@article{RN1,
-   author = {Günther, Mario and Kasirzadeh, Atoosa},
-   title = {Algorithmic and Human Decision Making: For a Double Standard of Transparency},
-   journal = {AI and Society},
-   DOI = {10.1007/s00146-021-01200-5},
-   year = {2021},
-   type = {Journal Article}
+@article{gunther2022algorithmic,
+  title={Algorithmic and human decision making: for a double standard of transparency},
+  author={G{\"u}nther, Mario and Kasirzadeh, Atoosa},
+  journal={AI \& SOCIETY},
+  volume={37},
+  number={1},
+  pages={375--381},
+  url = {https://link.springer.com/article/10.1007/s00146-021-01200-5},
+  year={2022},
+  publisher={Springer}
 }
 
 @article{RN73,
