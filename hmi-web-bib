@@ -559,11 +559,14 @@
   year={2021}
 }
 
-@misc{RN64,
-   author = {Hoerger, M and Kurniawati},
-   title = {An On-Line POMDP Solver for Continuous Observation Spaces},
-   year = {2021},
-   type = {Conference Paper}
+@inproceedings{hoerger2021line,
+  title={An on-line POMDP solver for continuous observation spaces},
+  author={Hoerger, Marcus and Kurniawati, Hanna},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={7643--7649},
+  url = {https://ieeexplore.ieee.org/abstract/document/9560943},
+  year={2021},
+  organization={IEEE}
 }
 
 @article{RN94,
