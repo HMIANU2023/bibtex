@@ -389,18 +389,15 @@
    type = {Journal Article}
 }
 
-@article{RN3,
-   author = {Archbold, L and Verdoodt, V and Gordon, F and Clifford, D},
-   title = {Children’s Privacy in Lockdown: Intersections between Privacy, Participation and Protection Rights in a Pandemic},
-   journal = {Law, Technology and Humans},
-   volume = {3},
-   number = {1},
-   pages = {18-34},
-   abstract = {&lt;p&gt;Children and young people throughout the world have felt the effects of Coronavirus Disease 2019 and the decisions made in response to the public health crisis, acutely. Questions have been raised about adequately protecting children’s privacy, as schooling, play and socialising went almost exclusively online. However, due to the historical lack of children’s rights being embedded throughout decision-making processes (including important participation rights), the effects of the increased surveillance as a result of the pandemic have not been thoroughly considered. This article pursues three objectives. First, it seeks to develop the literature on the enabling aspects of privacy for children in relation to education and play. Second, it seeks to expand the discussion on the exploitative risks endemic in not protecting children’s privacy, including not only violent harms, but commercial exploitation. Third, it suggests some policy responses that will more effectively embed a children’s rights framework beyond the ‘parental control’ provisions that dominate child-specific data protection frameworks.&lt;/p&gt;},
-   DOI = {10.5204/lthj.1803},
-   url = {https://lthj.qut.edu.au/article/view/1803},
-   year = {2021},
-   type = {Journal Article}
+@article{gordon2021children,
+  title={Children's privacy in lockdown: Intersections between privacy, participation and protection rights in a pandemic},
+  author={Gordon, Faith and Clifford, Damian and Archbold, Lisa and Verdoodt, Valerie},
+  journal={Law, Technology and Humans},
+  volume={3},
+  number={1},
+  pages={18--34},
+  url = {https://search.informit.org/doi/abs/10.3316/agispt.20210729050809},
+  year={2021}
 }
 
 @article{RN6,
