@@ -422,12 +422,13 @@
   publisher={Cambridge University Press}
 }
 
-@article{RN99,
-   author = {Bennett, B. T. and Maruyama, Y },
-   title = {Philosophical Specification of Empathetic Ethical Artificial Intelligence},
-   journal = {IEEE Transactions on Cognitive and Developmental Systems},
-   year = {2021},
-   type = {Journal Article}
+@article{bennett2021philosophical,
+  title={Philosophical specification of empathetic ethical artificial intelligence},
+  author={Bennett, Michael Timothy and Maruyama, Yoshihiro},
+  journal={IEEE Transactions on Cognitive and Developmental Systems},
+  year={2021},
+  url = {https://ieeexplore.ieee.org/abstract/document/9495946/},
+  publisher={IEEE}
 }
 
 @article{RN83,
