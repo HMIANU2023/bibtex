@@ -491,11 +491,13 @@
    type = {Edited Book}
 }
 
-@misc{RN74,
-   author = {Grastien, A and Benn, C and Thiébaux, S},
-   title = {Computing Plans that Signal Normative Compliance},
-   year = {2021},
-   type = {Conference Paper}
+@inproceedings{grastien2021computing,
+  title={Computing Plans that Signal Normative Compliance},
+  author={Grastien, Alban and Benn, Claire and Thi{\'e}baux, Sylvie},
+  booktitle={Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society},
+  pages={509--518},
+  url = {https://dl.acm.org/doi/abs/10.1145/3461702.3462607},
+  year={2021}
 }
 
 @misc{RN57,
