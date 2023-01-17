@@ -779,13 +779,12 @@
   year={2021}
 }
 
-@book{RN89,
-   author = {Steele, K and Stefánsson, H. Orri},
-   title = {Beyond Uncertainty: Reasoning with Unknown Possibilities},
-   publisher = {Cambridge University Press},
-   address = {Cambridge, U.K.},
-   year = {2021},
-   type = {Book}
+@book{steele2021beyond,
+  title={Beyond uncertainty: Reasoning with unknown possibilities},
+  author={Steele, Katie and Stef{\'a}nsson, H Orri},
+  url = {https://www.cambridge.org/core/elements/abs/beyond-uncertainty/8ED794C02E2BEAB14E4A42B7295F8228},
+  year={2021},
+  publisher={Cambridge University Press}
 }
 
 @article{RN90,
