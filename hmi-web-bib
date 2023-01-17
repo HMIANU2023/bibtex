@@ -618,11 +618,13 @@
   year={2021}
 }
 
-@misc{RN60,
-   author = {Kasirzadeh, A and Klein, C},
-   title = {The Ethical Gravity Thesis: Marrian Levels and the Persistence of Bias in Automated Decision-making Systems},
-   year = {2021},
-   type = {Conference Paper}
+@inproceedings{kasirzadeh2021ethical,
+  title={The Ethical Gravity Thesis: Marrian Levels and the Persistence of Bias in Automated Decision-making Systems},
+  author={Kasirzadeh, Atoosa and Klein, Colin},
+  booktitle={Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society},
+  pages={618--626},
+  url = {https://dl.acm.org/doi/abs/10.1145/3461702.3462606},
+  year={2021}
 }
 
 @misc{RN11,
