@@ -530,12 +530,11 @@
    year={2021}
 }
 
-@misc{RN81,
-   author = {Günther, M and Andreas, H},
-   title = {Regularity and Inferential Theories of Causation},
-   publisher = {Metaphysics Research Lab, Stanford University },
-   year = {2021},
-   type = {Generic}
+@article{andreas2021regularity,
+  title={Regularity and inferential theories of causation},
+  author={Andreas, Holger and Guenther, Mario},
+  url = {https://plato.stanford.edu/entries/causation-regularity/},
+  year={2021}
 }
 
 @article{RN1,
