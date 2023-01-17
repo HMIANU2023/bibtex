@@ -381,12 +381,15 @@
   year={2021}
 }
 
-@article{RN52,
-   author = {Archbold, L and Clifford, D and Paterson, M and Richardson, M and Witzleb, N},
-   title = {Who in the world am I? Ah, that’s the great puzzle! Ah, that’s the great puzzle!’ – Adtech and Children’s Data Rights},
-   journal = {UNSW Law Review},
-   year = {2021},
-   type = {Journal Article}
+@article{archbold2021adtech,
+  title={Adtech and children's data rights},
+  author={Archbold, Lisa and Clifford, Damian and Paterson, Moira and Richardson, Megan and Witzleb, Normann},
+  journal={University of New South Wales Law Journal, The},
+  volume={44},
+  number={3},
+  pages={857--877},
+  url = {https://search.informit.org/doi/abs/10.3316/informit.067482954333518},
+  year={2021}
 }
 
 @article{gordon2021children,
