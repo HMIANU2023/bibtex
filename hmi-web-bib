@@ -627,15 +627,13 @@
   year={2021}
 }
 
-@misc{RN11,
-   author = {Kasirzadeh, A and Smart, A},
-   title = {The Use and Misuse of Counterfactuals in Ethical Machine Learning},
-   publisher = {Association for Computing Machinery},
-   pages = {228–236},
-   DOI = {10.1145/3442188.3445886},
-   url = {https://doi.org/10.1145/3442188.3445886},
-   year = {2021},
-   type = {Conference Paper}
+@inproceedings{kasirzadeh2021use,
+  title={The use and misuse of counterfactuals in ethical machine learning},
+  author={Kasirzadeh, Atoosa and Smart, Andrew},
+  booktitle={Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency},
+  pages={228--236},
+  url = {https://dl.acm.org/doi/abs/10.1145/3442188.3445886},
+  year={2021}
 }
 
 @inbook{RN63,
