@@ -373,12 +373,12 @@
   year={2020}
 }
 
-@misc{RN58,
-   author = {Adams, R and Loideain, N and Clifford, D},
-   title = {Gender as Emotive AI and the Case of Nadia: Regulatory and Ethical Implications},
-   month = {June 3-4},
-   year = {2021},
-   type = {Conference Paper}
+@article{ni2021gender,
+  title={Gender as Emotive AI and the Case of ‘Nadia’: Regulatory and Ethical Implications},
+  author={Ni Loideain, Nora and Adams, Rachel and Clifford, Damian},
+  journal={Rachel and Clifford, Damian, Gender as Emotive AI and the Case of ‘Nadia’: Regulatory and Ethical Implications (June 2, 2021)},
+  url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858431},
+  year={2021}
 }
 
 @article{RN52,
