@@ -519,16 +519,15 @@
    publisher={Taylor \& Francis}
 }
 
-@article{RN79,
-   author = {Günther, M and Andreas, H},
+@article{andreas2021difference,
+   author = {Günther, Mario and Andreas, Holger},
    title = {Difference-Making Causation},
-   journal = {Journal of Philosophy },
-   volume = {118},
-   number = {12},
-   pages = {680-701},
-   DOI = {10.5840/jphil20211181243},
-   year = {2021},
-   type = {Journal Article}
+   journal={The Journal of Philosophy},
+   volume={118},
+   number={12},
+   pages={680--701},
+   url = {https://www.pdcnet.org/jphil/content/jphil_2021_0118_0012_0680_0701},
+   year={2021}
 }
 
 @article{RN80,
