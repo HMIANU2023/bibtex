@@ -431,18 +431,16 @@
   publisher={IEEE}
 }
 
-@article{RN83,
-   author = {Davis, J and Graham, T},
-   title = {Emotional consequences and attention rewards: the social effects of ratings on Reddit},
-   journal = {Information, Communication & Society},
-   volume = {24},
-   number = {5},
-   pages = {649-666},
-   ISSN = {1369-118X},
-   DOI = {10.1080/1369118X.2021.1874476},
-   url = {https://doi.org/10.1080/1369118X.2021.1874476},
-   year = {2021},
-   type = {Journal Article}
+@article{davis2021emotional,
+  title={Emotional consequences and attention rewards: the social effects of ratings on Reddit},
+  author={Davis, Jenny L and Graham, Timothy},
+  journal={Information, Communication \& Society},
+  volume={24},
+  number={5},
+  pages={649--666},
+  url = {https://www.tandfonline.com/doi/abs/10.1080/1369118X.2021.1874476},
+  year={2021},
+  publisher={Taylor \& Francis}
 }
 
 @article{RN105,
