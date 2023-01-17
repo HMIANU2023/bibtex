@@ -579,14 +579,16 @@
   publisher={Springer}
 }
 
-@article{RN26,
-   author = {Kasirzadeh, A},
-   title = {A New Role for Mathematics in Empirical Sciences},
-   journal = {Philosophy of Science},
-   volume = {88},
-   number = {4},
-   year = {2021},
-   type = {Journal Article}
+@article{kasirzadeh2021new,
+  title={A new role for mathematics in empirical sciences},
+  author={Kasirzadeh, Atoosa},
+  journal={Philosophy of science},
+  volume={88},
+  number={4},
+  pages={686--706},
+  url = {https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/new-role-for-mathematics-in-empirical-sciences/75BD5525A79D489A9BEA7E974611F501},
+  year={2021},
+  publisher={Cambridge University Press}
 }
 
 @misc{RN86,
