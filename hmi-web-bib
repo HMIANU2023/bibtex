@@ -549,15 +549,15 @@
   publisher={Springer}
 }
 
-@article{RN73,
-   author = {Hedden, Brian},
-   title = {On statistical criteria of algorithmic fairness},
-   journal = {Philosophy and Public Affairs},
-   volume = {49},
-   number = {2},
-   pages = {209-231},
-   year = {2021},
-   type = {Journal Article}
+@article{hedden2021statistical,
+  title={On statistical criteria of algorithmic fairness},
+  author={Hedden, Brian},
+  journal={Philosophy and Public Affairs},
+  volume={49},
+  number={2},
+  url = {https://philpapers.org/rec/HEDOSC},
+  year={2021}
+
 }
 
 @misc{RN64,
