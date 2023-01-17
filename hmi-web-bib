@@ -569,11 +569,14 @@
   organization={IEEE}
 }
 
-@article{RN94,
-   author = {Holger, A and Matthias, A and Günther, M},
-   title = {Counterfactuals for Causal Responsibility in Legal Contexts},
-   year = {2021},
-   type = {Journal Article}
+@article{andreas2022counterfactuals,
+  title={Counterfactuals for causal responsibility in legal contexts},
+  author={Andreas, Holger and Armgardt, Matthias and Gunther, Mario},
+  journal={Artificial intelligence and law},
+  pages={1--18},
+  url = {https://link.springer.com/article/10.1007/s10506-021-09307-2},
+  year={2022},
+  publisher={Springer}
 }
 
 @article{RN26,
