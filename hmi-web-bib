@@ -863,10 +863,11 @@
   publisher={Elsevier}
 }
 
-@misc{RN125,
-   author = {Chieppe, P and Sweetser, P and Newman, E},
+@misc{chieppebayesian2022,
+   author = {Chieppe, Patrick and Sweetser, Penny and Newman, Eryn},
    title = {Bayesian Modelling of the Well-Made Surprise},
    year = {2022},
+   url = {https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_16L_Chieppe-et-al..pdf},
    type = {Conference Paper}
 }
 
