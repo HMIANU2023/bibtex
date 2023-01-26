@@ -905,15 +905,12 @@
   publisher={Taylor \& Francis}
 }
 
-@article{RN133,
-   author = {Davis, J and Love, T. P.},
-   title = {Intersecting Matters: #GeorgeFloyd and #Covid19},
-   journal = {First Monday },
-   volume = {27},
-   number = {4},
-   DOI = {https://doi.org/10.5210/fm.v27i4.12581},
-   year = {2022},
-   type = {Journal Article}
+@article{davis2022intersecting,
+  title={Intersecting matters:\# GeorgeFloyd and\# COVID19},
+  author={Davis, Jenny L and Love, Tony P},
+  journal={First Monday},
+  url = {https://firstmonday.org/ojs/index.php/fm/article/view/12581},
+  year={2022}
 }
 
 @article{RN131,
