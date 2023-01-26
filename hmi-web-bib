@@ -1042,11 +1042,13 @@ Policy for Science and Technology},
    type = {Conference Paper}
 }
 
-@misc{RN128,
-   author = {Wang, Y and Sweetser, P},
-   title = {The Effect of Using an Auto-Generated Anime Avatar on Player-Avatar Identification},
-   year = {2022},
-   type = {Conference Paper}
+@incollection{wang2022effect,
+  title={The Effect of Using an Auto-Generated Anime Avatar on Player-Avatar Identification},
+  author={Wang, Yutong and Sweetser, Penny},
+  booktitle={Australasian Computer Science Week 2022},
+  url = {https://dl.acm.org/doi/abs/10.1145/3511616.3513094},
+  pages={12--22},
+  year={2022}
 }
 
 @book{RN107,
