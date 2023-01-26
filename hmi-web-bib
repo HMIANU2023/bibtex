@@ -924,14 +924,16 @@
   publisher={Emerald Publishing Limited}
 }
 
-@article{RN132,
-   author = {Davis, J and Williams, A and Yang, M. W. },
-   title = {Algorithmic Reparation},
-   journal = {Big Data & Society },
-   note = {Awarded grant: Algorithmic Reparation Workshop ‘22, University of Michigan},
-   DOI = {https://doi.org/10.1177/20539517211044808},
-   year = {2022},
-   type = {Journal Article}
+@article{davis2021algorithmic,
+  title={Algorithmic reparation},
+  author={Davis, Jenny L and Williams, Apryl and Yang, Michael W},
+  journal={Big Data \& Society},
+  volume={8},
+  number={2},
+  pages={20539517211044808},
+  url = {https://journals.sagepub.com/doi/pdf/10.1177/20539517211044808},
+  year={2021},
+  publisher={SAGE Publications Sage UK: London, England}
 }
 
 @inproceedings{nguyen2022mapping,
