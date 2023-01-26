@@ -871,13 +871,16 @@
    type = {Conference Paper}
 }
 
-@article{RN121,
-   author = {Cladwell, S and Sweetser, P and O’Donnell, N and Knight, M. J.  and Aitchison, M.  and Gedeon, T and Johnson, D and Brereton, M and Gallagher, M and Conroy, D},
-   title = {An Agile New Research Framework for Hybrid Human-AI Teaming: Trust, Transparency, and Transferability},
-   journal = {ACM Transactions on Interactive Intelligent Systems},
-   DOI = {https://doi.org/10.1145/3514257},
-   year = {2022},
-   type = {Journal Article}
+@article{caldwell2022agile,
+  title={An Agile New Research Framework for Hybrid Human-AI Teaming: Trust, Transparency, and Transferability},
+  author={Caldwell, Sabrina and Sweetser, Penny and O’Donnell, Nicholas and Knight, Matthew J and Aitchison, Matthew and Gedeon, Tom and Johnson, Daniel and Brereton, Margot and Gallagher, Marcus and Conroy, David},
+  journal={ACM Transactions on Interactive Intelligent Systems (TiiS)},
+  volume={12},
+  number={3},
+  pages={1--36},
+  url = {https://dl.acm.org/doi/full/10.1145/3514257},
+  year={2022},
+  publisher={ACM New York, NY}
 }
 
 @inbook{RN32,
