@@ -913,12 +913,15 @@
   year={2022}
 }
 
-@article{RN131,
-   author = {Davis, J and Shank, D. B.  and Love, T. P. and Stefanik, C and Wilson, A},
-   title = {Gender Dynamics in Human-AI Role-Taking.},
-   journal = {Advances in Group Processes},
-   year = {2022},
-   type = {Journal Article}
+@incollection{davis2022gender,
+  title={Gender Dynamics in Human-AI Role-Taking},
+  author={Davis, Jenny L and Shank, Daniel B and Love, Tony P and Stefanik, Courtney and Wilson, Abigail},
+  booktitle={Advances in Group Processes},
+  volume={39},
+  pages={1--22},
+  url = {https://www.emerald.com/insight/content/doi/10.1108/S0882-614520220000039001/full/html},
+  year={2022},
+  publisher={Emerald Publishing Limited}
 }
 
 @article{RN132,
