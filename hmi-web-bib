@@ -842,15 +842,14 @@
   year={2021}
 }
 
-@incollection{RN117,
-   author = {Aitchison, M and Benke, L and P, Sweetser},
-   title = {Learning to Deceive in Multi-Agent Hidden Role Games},
-   booktitle = {Communications in Computer and Information Science },
-   editor = {Sarkadi, S;  and Wright, B;  and Masters, P;  and McBurney, P;},
-   publisher = {Springer},
-   pages = {55-75},
-   year = {2022},
-   type = {Serial}
+@inproceedings{aitchison2021learning,
+  title={Learning to deceive in multi-agent hidden role games},
+  author={Aitchison, Matthew and Benke, Lyndon and Sweetser, Penny},
+  booktitle={Deceptive AI: First International Workshop, DeceptECAI 2020, Santiago de Compostela, Spain, August 30, 2020 and Second International Workshop, DeceptAI 2021, Montreal, Canada, August 19, 2021, Proceedings 1},
+  pages={55--75},
+  url = {https://link.springer.com/chapter/10.1007/978-3-030-91779-1_5},
+  year={2021},
+  organization={Springer}
 }
 
 @article{RN104,
