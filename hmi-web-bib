@@ -1006,11 +1006,14 @@ Policy for Science and Technology},
   year={2022}
 }
 
-@misc{RN96,
-   author = {Lee, J and Wu, S and Ertugrul, A. M. and Lin, Y and Xie, L},
-   title = {Whose Advantage? Measuring Attention Dynamics across YouTube and Twitter on Controversial Topics},
-   year = {2022},
-   type = {Conference Paper}
+@inproceedings{lee2022whose,
+  title={Whose advantage? Measuring attention dynamics across YouTube and Twitter on controversial topics},
+  author={Lee, JooYoung and Wu, Siqi and Ertugrul, Ali Mert and Lin, Yu-Ru and Xie, Lexing},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={16},
+  pages={573--583},
+  url = {https://ojs.aaai.org/index.php/ICWSM/article/view/19316},
+  year={2022}
 }
 
 @inproceedings{lucchesi2022smallset,
