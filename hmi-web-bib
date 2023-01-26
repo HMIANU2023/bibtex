@@ -893,14 +893,16 @@
   publisher={Edward Elgar Publishing}
 }
 
-@book{RN118,
-   author = {Davis, J and Kidd, D and Aalders, R and Burgese, T and Li, M},
-   title = {Communication, Information Technology, & Media Sociology section of the American Sociological Association 2022 Special Issue},
-   volume = {2},
-   series = {Information, Communication & Society },
-   url = {https://www.tandfonline.com/toc/rics20/25/5  },
-   year = {2022},
-   type = {Edited Book}
+@misc{davis2022information,
+  title={Information technology \& media sociology in a (still) pandemic world},
+  author={Davis, Jenny L and Kidd, Dustin and Li, Muyang and Aalders, Rachel and Burgese, Tyler},
+  journal={Information, Communication \& Society},
+  volume={25},
+  number={5},
+  pages={587--590},
+  url = {https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2048050},
+  year={2022},
+  publisher={Taylor \& Francis}
 }
 
 @article{RN133,
