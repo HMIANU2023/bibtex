@@ -1025,12 +1025,14 @@ Policy for Science and Technology},
   year={2022}
 }
 
-@article{RN130,
-   author = {Maruyama, Y},
-   title = {Human-Computer Interaction and Coevolution in Science AI Robotics},
-   journal = {Communications in Computer and Information Science},
-   year = {2022},
-   type = {Journal Article}
+@inproceedings{maruyama2022human,
+  title={Human-Computer Interaction and Coevolution in Science AI Robotics},
+  author={Maruyama, Yoshihiro},
+  booktitle={HCI International 2022--Late Breaking Posters: 24th International Conference on Human-Computer Interaction, HCII 2022, Virtual Event, June 26--July 1, 2022, Proceedings, Part II},
+  pages={523--531},
+  url = {https://link.springer.com/chapter/10.1007/978-3-031-19682-9_66},
+  year={2022},
+  organization={Springer}
 }
 
 @misc{RN119,
