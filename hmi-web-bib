@@ -999,15 +999,11 @@ Policy for Science and Technology},
   publisher={Annual Reviews}
 }
 
-@inbook{RN111,
-   author = {Lazar, S},
-   title = {Power and AI: Nature and Justification},
-   booktitle = {The Oxford Handbook of AI Governance},
-   editor = {Bullock, J and Himmelreich, J},
-   publisher = {Oxford University Press},
-   address = {New york},
-   year = {2022},
-   type = {Book Section}
+@article{lazar2022power,
+  title={Power and AI: Nature and Justification},
+  author={Lazar, Seth},
+  url = {https://academic.oup.com/edited-volume/41989/chapter-abstract/355437737?redirectedFrom=fulltext},
+  year={2022}
 }
 
 @misc{RN96,
