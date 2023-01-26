@@ -883,14 +883,14 @@
   publisher={ACM New York, NY}
 }
 
-@inbook{RN32,
-   author = {Clifford, D},
-   title = {Data Protection and Consumer Protection — The Empowerment of the Citizen-Consumer},
-   booktitle = {Research Handbook on Privacy and Data Protection Law: Values, Norms and Global Politics},
-   editor = {Fuster, G. G.; and van Brakel, R; and De Hert, P;},
-   publisher = {Edward Elgar},
-   year = {2022},
-   type = {Book Section}
+@incollection{clifford2022data,
+  title={Data protection and consumer protection: The empowerment of the citizen-consumer},
+  author={Clifford, Damian},
+  booktitle={Research Handbook on Privacy and Data Protection Law},
+  pages={229--248},
+  url = {https://www.elgaronline.com/display/edcoll/9781786438508/9781786438508.00019.xml},
+  year={2022},
+  publisher={Edward Elgar Publishing}
 }
 
 @book{RN118,
