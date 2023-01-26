@@ -978,11 +978,14 @@ Policy for Science and Technology},
   year={2022}
 }
 
-@misc{RN127,
-   author = {Jiang, Z and Sweetser, P},
-   title = {GAN-Assisted YUV Pixel Art Generation},
-   year = {2022},
-   type = {Conference Paper}
+@inproceedings{jiang2022gan,
+  title={GAN-Assisted YUV Pixel Art Generation},
+  author={Jiang, Zhouyang and Sweetser, Penny},
+  booktitle={AI 2021: Advances in Artificial Intelligence: 34th Australasian Joint Conference, AI 2021, Sydney, NSW, Australia, February 2--4, 2022, Proceedings},
+  pages={595--606},
+  url = {https://link.springer.com/chapter/10.1007/978-3-030-97546-3_48},
+  year={2022},
+  organization={Springer}
 }
 
 @article{RN112,
