@@ -969,11 +969,13 @@ Policy for Science and Technology},
    type = {Report}
 }
 
-@misc{RN126,
-   author = {Hao, D and Sweetser, P and Aitchison, M},
-   title = {Curriculum Generation and Sequencing for Deep Reinforcement Learning in StarCraft II},
-   year = {2022},
-   type = {Conference Paper}
+@incollection{hao2022curriculum,
+  title={Curriculum Generation and Sequencing for Deep Reinforcement Learning in StarCraft II},
+  author={Hao, Daniel and Sweetser, Penny and Aitchison, Matthew},
+  booktitle={Australasian Computer Science Week 2022},
+  pages={1--11},
+  url = {https://dl.acm.org/doi/abs/10.1145/3511616.3513093},
+  year={2022}
 }
 
 @misc{RN127,
