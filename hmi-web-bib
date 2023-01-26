@@ -852,13 +852,15 @@
   organization={Springer}
 }
 
-@article{RN104,
-   author = {Bosua, R and Cheong, M  and Clark, K  and Clifford, D  and Coghlan, S and Culnane, C and Leins, K  and Richardson, M },
-   title = {Using Public Data to Measure Diversity in Computer Science Research Communities: A Critical Data Governance Perspective},
-   journal = {Computer Law & Security Review },
-   volume = {44},
-   year = {2022},
-   type = {Journal Article}
+@article{bosua2022using,
+  title={Using public data to measure diversity in computer science research communities: A critical data governance perspective},
+  author={Bosua, Rachelle and Cheong, Marc and Clark, Karin and Clifford, Damian and Coghlan, Simon and Culnane, Chris and Leins, Kobi and Richardson, Megan},
+  journal={Computer Law \& Security Review},
+  volume={44},
+  pages={105655},
+  url = {https://www.sciencedirect.com/science/article/pii/S0267364922000036},
+  year={2022},
+  publisher={Elsevier}
 }
 
 @misc{RN125,
