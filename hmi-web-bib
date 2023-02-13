@@ -1159,16 +1159,6 @@ Policy for Science and Technology},
   publisher={SocArXiv}
 }
 
-@inbook{RN88,
-   author = {Steele, K},
-   title = {Incommensurability that can(not) be ignored},
-   booktitle = {Value Incommensurability},
-   editor = {Steele, K and Herlitz, A  and Andersson, H},
-   publisher = {Routledge},
-   year = {Forthcoming},
-   type = {Book Section}
-}
-
 @article{barry2022supererogation,
   title={Supererogation and Optimisation},
   author={Barry, Christian and Lazar, Seth},
