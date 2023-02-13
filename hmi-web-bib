@@ -1081,14 +1081,13 @@ Policy for Science and Technology},
   publisher={Wiley Online Library}
 }
 
-@inbook{RN92,
-   author = {Steele, K},
-   title = {Incommensurability that can(not) be ignored},
-   booktitle = {Value Incommensurability },
-   editor = {Herlitz, Anders and Andersson, Henrik},
-   publisher = {Routledge},
-   year = {Forthcoming},
-   type = {Book Section}
+@article{steele202111,
+  title={11 Incommensurability That Can (not) Be Ignored},
+  author={Steele, Katie},
+  journal={Value Incommensurability},
+  pages={231},
+  url = {https://library.oapen.org/bitstream/handle/20.500.12657/51661/1/9781000526981.pdf#page=240},
+  year={2021}
 }
 
 @article{steele2022transformative,
