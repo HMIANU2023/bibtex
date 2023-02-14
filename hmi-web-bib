@@ -696,13 +696,6 @@
   year={2021}
 }
 
-@inproceedings{RN76,
-   author = {Lucchesi, L  and Kuhnert, P  and Xie, L  and Davis, J},
-   title = {Smallset Timelines to Track and Communicate Data Preprocessing},
-   booktitle = {Open Refereed Roundtable at the American Sociological Association Annual Meeting ( August 2021) },
-   type = {Conference Proceedings}
-}
-
 @inproceedings{maruyama2021moral,
   title={Moral Philosophy of Artificial General Intelligence: Agency and Responsibility},
   author={Maruyama, Yoshihiro},
